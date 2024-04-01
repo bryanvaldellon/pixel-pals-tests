@@ -5,48 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78ab7c17-5a6a-4c4f-9c69-10ad50c7db31" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/EnvironmentStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/EnvironmentStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LandingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/applicationrunner/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/applicationrunner/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/drivers/DriverBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/drivers/DriverBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/drivers/MyAppiumAndroidDriverRemote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/drivers/MyChromeAndroidDriverRemote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/drivers/MyEdgeWindowsDesktopDriverRemote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/drivers/MyEdgeWindowsDesktopDriverRemote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/drivers/MySafariIPhoneDriverRemote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/drivers/MySafariMacDesktopDriverRemote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/drivers/MySafariMacDesktopDriverRemote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/step/LandingStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/LandingStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/LandingStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/LandingStepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/ElementUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/ElementUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/WaitUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/WaitUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/pixelPals/functional/Landing.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/pixelPals/functional/Landing.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/functional/Landing.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/functional/Login.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/functional/SelectPixelPal.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/functional/SelectPixelPalDetails.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/functional/Tutorial.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/nonFunctional/Compatibility.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/nonFunctional/Localization.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/nonFunctional/Performance.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/nonFunctional/Reliability.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/nonFunctional/Scalability.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/nonFunctional/Security.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/features/pixelPals/nonFunctional/Usability.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/pixelPals/functional/Landing.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/pixelPals/functional/Landing.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/pixelPals/functional/Tutorial.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/pixelPals/functional/Tutorial.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711948906723</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="initial">
+      <option name="closed" value="true" />
+      <created>1711952457775</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711952457775</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

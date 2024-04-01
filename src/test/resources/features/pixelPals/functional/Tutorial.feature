@@ -5,10 +5,12 @@ Feature: Pixel Pals Tutorial
   Scenario Outline: Time of Death
     Given user on test environment
     When user confirms "<pixelPal>" pixel pal
-    Then time of Death tutorial is displayed
+    Then "<tutorial>" tutorial is displayed
     Examples:
-      |pixelPal|
-      |boremon |
-      |borg    |
-      |byrus   |
-      |foxphin |
+      |pixelPal|tutorial      |
+      |boremon |time of death |
+      |borg    |pet points    |
+      |byrus   |pet level     |
+      |foxphin |habitat value |
+      |foxphin |pixel pass    |
+      |foxphin |revival       |
