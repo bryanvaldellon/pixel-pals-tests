@@ -1,1 +1,3 @@
-# pixel-pals-tests
+# Pixel Pals Tests
+## Test Scenarios
+Path - test/resources/features/pixelPals
