@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<!-- Send debug messages to System.out -->
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<!-- By default, encoders are assigned the type ch.qos.logback.classic.encoder.PatternLayoutEncoder -->
+		<encoder>
+			<pattern>
+				%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36}#%M\(line:%line\) - %msg%n
+			</pattern>
+		</encoder>
+	</appender>
+
+	<!-- Send debug messages to a file -->
+	<!-- TODO deprecating single log files -->
+<!--	<appender name="FILE"-->
+<!--		class="ch.qos.logback.core.rolling.RollingFileAppender">-->
+<!--		<file>logs/xfers-automation-tests.log</file>-->
+<!--		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">-->
+<!--			<Pattern>-->
+<!--				%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36}#%M\(line:%line\) - %msg%n-->
+<!--			</Pattern>-->
+<!--		</encoder>-->
+
+<!--		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">-->
+<!--			<FileNamePattern>logs/xfers-automation-tests.%d{yyyy-MM-dd}.log</FileNamePattern>-->
+<!--			<maxHistory>30</maxHistory>-->
+<!--		</rollingPolicy>-->
+<!--	</appender>-->
+
+	<appender name="SIFT" class="ch.qos.logback.classic.sift.SiftingAppender">
+		<!-- in the absence of the class attribute, it is assumed that the
+             desired discriminator type is
+             ch.qos.logback.classic.sift.MDCBasedDiscriminator -->
+		<discriminator>
+			<key>scenarioName</key>
+			<defaultValue>unknown</defaultValue>
+		</discriminator>
+		<sift>
+			<appender name="FILE-${scenarioName}" class="ch.qos.logback.core.FileAppender">
+				<file>logs/fazz-automation-tests-${scenarioName}.log</file>
+				<layout class="ch.qos.logback.classic.PatternLayout">
+					<pattern>
+						%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36}#%M\(line:%line\) - %msg%n
+					</pattern>
+				</layout>
+			</appender>
+		</sift>
+	</appender>
+
+	<!-- By default, the level of the root level is set to DEBUG -->
+	<root level="DEBUG">
+		<appender-ref ref="STDOUT" />
+<!--		<appender-ref ref="FILE" />-->
+		<appender-ref ref="SIFT" />
+	</root>
+	<logger name="org.apache" level="WARN" />
+<!--	remove unnecessary selenium logs-->
+	<logger name="org.asynchttpclient" level="OFF"/>
+	<logger name="io.netty" level="OFF"/>
+</configuration>

@@ -1,11 +1,6 @@
 package utils;
 
 import com.github.javafaker.Faker;
-import dto.MainDto;
-import enums.Banks;
-import enums.Countries;
-import enums.Credentials;
-import enums.PhoneNumbers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -149,16 +144,6 @@ public class DataUtils {
         return randomCountry;
     }
 
-    public static List<Banks> getBanks(Countries country){
-        LOGGER.debug("Getting Banks enum as list for the country = {}", country);
-        List<Banks> banks = new ArrayList<>();
-        for(Banks bank : Banks.values()) {
-                if(bank.getCountries().equals(country)){
-                    banks.add(bank);
-                }
-            }
-            return banks;
-        }
 
     public static String sha1Encryption(String toBeEncrypted){
         LOGGER.debug("encrypting = {} using sha1", toBeEncrypted);
