@@ -31,7 +31,7 @@ public class DriverBase {
             case "ChromeWindowsDesktop": new MyChromeWindowsDesktopDriver(this.mainDto); break;
             case "ChromeWindowsDesktopRemote": new MyChromeWindowsDesktopDriverRemote(this.mainDto); break;
             case "ChromeAndroid": new MyChromeAndroidDriver(this.mainDto); break;
-            case "ChromeAndroidRemote": new MyChromeAndroidDriverRemote(this.mainDto); break;
+//            case "ChromeAndroidRemote": new MyChromeAndroidDriverRemote(this.mainDto); break;
             case "FirefoxWindowsDesktopRemote": new MyFirefoxWindowsDesktopDriverRemote(this.mainDto); break;
             case "EdgeWindowsDesktop": new MyEdgeWindowsDesktopDriver(this.mainDto); break;
             case "EdgeWindowsDesktopRemote": new MyEdgeWindowsDesktopDriverRemote(this.mainDto); break;
@@ -39,14 +39,14 @@ public class DriverBase {
             case "ChromeMacDesktop": new MyChromeMacDesktopDriver(this.mainDto); break;
             case "SafariMacDesktop": new MySafariMacDesktopDriver(this.mainDto); break;
             case "ChromeMacDesktopRemote": new MyChromeMacDesktopDriverRemote(this.mainDto); break;
-            case "SafariIPhoneRemote": new MySafariIPhoneDriverRemote(this.mainDto); break;
+//            case "SafariIPhoneRemote": new MySafariIPhoneDriverRemote(this.mainDto); break;
             case "OperaWindowsDesktopRemote": new MyOperaWindowsDesktopDriverRemote(this.mainDto); break;
             case "OperaMacDesktopRemote": new MyOperaMacDesktopDriverRemote(this.mainDto); break;
             case "ChromeLinuxDesktop": new MyChromeLinuxDesktopDriver(this.mainDto); break;
             case "FirefoxWindowsDesktop": new MyFirefoxWindowsDesktopDriver(this.mainDto);break;
             case "FirefoxMacDesktop": new MyFirefoxMacDesktopDriver(this.mainDto);break;
             case "FirefoxLinuxDesktop": new MyFirefoxLinuxDesktopDriver(this.mainDto);break;
-            case "AppiumAndroidRemote": new MyAppiumAndroidDriverRemote(this.mainDto, appPackage, appActivity);break;
+//            case "AppiumAndroidRemote": new MyAppiumAndroidDriverRemote(this.mainDto, appPackage, appActivity);break;
             case "ChromiumLinuxDesktop": new MyChromiumLinuxDesktopDriver(this.mainDto); break;
             case "EdgeLinuxDesktop": new MyEdgeLinuxDesktopDriver(this.mainDto); break;
             default:

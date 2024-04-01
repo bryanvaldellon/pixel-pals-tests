@@ -59,7 +59,7 @@ public class MySafariMacDesktopDriverRemote extends MyDriverRemote {
         browserstackOptions.put("realMobile", "true");
         browserstackOptions.put("localIdentifier", SystemUtils.getEnvironmentVariable("GITHUB_RUN_ID"));
         capabilities.setCapability("bstack:options", browserstackOptions);
-        mainDto.setBrowserstack(true);
+//        mainDto.setBrowserstack(true);
         mainDto.setPlatformType(PlatformTypes.MAC);
         return capabilities;
     }

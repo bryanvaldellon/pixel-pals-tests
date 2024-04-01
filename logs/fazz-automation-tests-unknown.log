@@ -1,0 +1,431 @@
+2024-04-01 13:33:09.927 [main] DEBUG org.testng.TestNG#debug(line:82) - suiteXmlPath: "C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+2024-04-01 13:33:10.137 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 13:33:10.137 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:33:10.141 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:33:10.142 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:33:10.148 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:33:10.149 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 13:33:10.149 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:33:10.149 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:33:10.150 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:33:10.150 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:33:10.157 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@346d61be] -270775665
+2024-04-01 13:33:10.157 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:33:10.157 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:33:10.157 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:33:10.157 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:33:10.163 [main] INFO  org.testng.internal.Utils#info(line:112) - [TestNG] Running:
+  C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-04-01 13:33:10.793 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 13:33:10.795 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 13:33:10.795 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:33:10.796 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 13:33:10.797 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 13:33:10.797 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 13:33:10.797 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 13:33:10.799 [main] DEBUG utils.DateUtils#getCurrentDateTime(line:34) - getting current date time with pattern = dd-MM-yyyy HH:mm
+2024-04-01 13:33:10.801 [main] DEBUG utils.DateUtils#getCurrentDateTime(line:39) - current date and time is = 01-04-2024 13:33
+2024-04-01 13:33:10.801 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = browserstack.build to value = 01-04-2024 13:33
+2024-04-01 13:33:11.100 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:33:11.100 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:33:11.100 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:33:11.101 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:33:11.101 [TestNG-PoolService-2] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:33:11.101 [TestNG-PoolService-1] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:39:12.124 [main] DEBUG org.testng.TestNG#debug(line:82) - suiteXmlPath: "C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+2024-04-01 13:39:12.355 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 13:39:12.355 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:39:12.357 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:39:12.358 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:39:12.358 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:39:12.359 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 13:39:12.359 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:39:12.359 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:39:12.359 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:39:12.360 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:39:12.368 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@68c72235] 607521542
+2024-04-01 13:39:12.368 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:39:12.368 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:39:12.368 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:39:12.369 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:39:12.373 [main] INFO  org.testng.internal.Utils#info(line:112) - [TestNG] Running:
+  C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-04-01 13:39:12.997 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 13:39:12.999 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 13:39:12.999 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:12.999 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 13:39:13.000 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 13:39:13.000 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 13:39:13.000 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 13:39:13.339 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:39:13.339 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:39:13.339 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:39:13.340 [TestNG-PoolService-2] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:39:13.340 [TestNG-PoolService-1] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:39:13.340 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:43:11.471 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 13:43:11.479 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 13:43:11.480 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:43:11.480 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 13:43:11.481 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 13:43:11.481 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 13:43:11.481 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 13:43:11.691 [main] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 13:43:11.692 [main] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:43:38.547 [main] DEBUG org.testng.TestNG#debug(line:82) - suiteXmlPath: "C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+2024-04-01 13:43:38.757 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 13:43:38.757 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:43:38.761 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:43:38.762 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:43:38.762 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:43:38.763 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 13:43:38.764 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:43:38.764 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:43:38.765 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:43:38.765 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:43:38.772 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@55536d9e] 281171567
+2024-04-01 13:43:38.773 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:43:38.773 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:43:38.773 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:43:38.773 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:43:38.779 [main] INFO  org.testng.internal.Utils#info(line:112) - [TestNG] Running:
+  C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-04-01 13:43:39.343 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 13:43:39.344 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 13:43:39.344 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:43:39.345 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 13:43:39.345 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 13:43:39.346 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 13:43:39.346 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 13:43:39.581 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 13:43:39.582 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:45:01.040 [main] DEBUG org.testng.TestNG#debug(line:82) - suiteXmlPath: "C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+2024-04-01 13:45:01.253 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 13:45:01.254 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:45:01.256 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:45:01.257 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:45:01.257 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:45:01.257 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 13:45:01.258 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:45:01.258 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:45:01.258 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:45:01.258 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:45:01.266 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@68c72235] 607521542
+2024-04-01 13:45:01.266 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:45:01.266 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:45:01.267 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:45:01.267 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:45:01.271 [main] INFO  org.testng.internal.Utils#info(line:112) - [TestNG] Running:
+  C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-04-01 13:45:01.849 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 13:45:01.850 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 13:45:01.850 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:45:01.851 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 13:45:01.851 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 13:45:01.852 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 13:45:01.852 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 13:45:02.091 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 13:45:02.092 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:52:27.372 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 13:52:27.383 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 13:52:27.385 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:52:27.385 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 13:52:27.386 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 13:52:27.386 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 13:52:27.386 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 13:52:27.629 [main] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 13:52:27.630 [main] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:59:12.932 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 13:59:12.945 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:59:12.951 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:59:12.951 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:59:12.952 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:59:12.953 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 13:59:12.953 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:59:12.953 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:59:12.954 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:59:12.954 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:59:12.959 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@34f6515b] -261801428
+2024-04-01 13:59:12.959 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:59:12.960 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:59:12.960 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:59:12.960 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 13:59:13.630 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 13:59:13.633 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 13:59:13.633 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:59:13.634 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 13:59:13.635 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 13:59:13.635 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 13:59:13.636 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 13:59:13.843 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 13:59:13.846 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:59:14.057 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@34f6515b] -261801428
+2024-04-01 13:59:14.057 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 13:59:14.058 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 13:59:14.058 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 13:59:14.058 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:00:01.985 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 14:00:01.992 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 14:00:01.994 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:00:01.994 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 14:00:01.995 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 14:00:01.995 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 14:00:01.995 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 14:00:02.156 [main] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 14:00:02.157 [main] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 14:00:44.978 [main] DEBUG org.testng.TestNG#debug(line:82) - suiteXmlPath: "C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+2024-04-01 14:00:45.415 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 14:00:45.415 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:00:45.418 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:00:45.418 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:00:45.418 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:00:45.419 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 14:00:45.419 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:00:45.419 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:00:45.419 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:00:45.419 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:00:45.424 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@7f2cfe3f] 983295760
+2024-04-01 14:00:45.424 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:00:45.424 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:00:45.424 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:00:45.425 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:00:45.428 [main] INFO  org.testng.internal.Utils#info(line:112) - [TestNG] Running:
+  C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-04-01 14:00:45.942 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 14:00:45.943 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 14:00:45.943 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:00:45.944 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 14:00:45.944 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 14:00:45.944 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 14:00:45.944 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 14:00:46.137 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 14:00:46.140 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 14:01:14.582 [main] DEBUG org.testng.TestNG#debug(line:82) - suiteXmlPath: "C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+2024-04-01 14:01:14.825 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 14:01:14.825 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:01:14.829 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:01:14.830 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:01:14.830 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:01:14.831 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 14:01:14.831 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:01:14.831 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:01:14.832 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:01:14.832 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:01:14.843 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@346d61be] -270775665
+2024-04-01 14:01:14.843 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:01:14.844 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:01:14.844 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:01:14.844 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:01:14.848 [main] INFO  org.testng.internal.Utils#info(line:112) - [TestNG] Running:
+  C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-04-01 14:01:15.514 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 14:01:15.516 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 14:01:15.517 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:01:15.518 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 14:01:15.519 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 14:01:15.519 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 14:01:15.520 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 14:01:15.758 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 14:01:15.759 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 14:10:49.556 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 14:10:49.565 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:10:49.567 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:10:49.568 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:10:49.568 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:10:49.569 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 14:10:49.569 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:10:49.570 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:10:49.571 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:10:49.571 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:10:49.576 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@37d4349f] -213705360
+2024-04-01 14:10:49.576 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:10:49.577 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:10:49.577 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:10:49.577 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:10:50.351 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 14:10:50.353 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 14:10:50.353 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:10:50.354 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 14:10:50.355 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 14:10:50.355 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 14:10:50.355 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 14:10:50.628 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 14:10:50.630 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 14:10:50.855 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@37d4349f] -213705360
+2024-04-01 14:10:50.855 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:10:50.856 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:10:50.856 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:10:50.856 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:11:18.616 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 14:11:18.626 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:11:18.629 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:11:18.630 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:11:18.630 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:11:18.631 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 14:11:18.631 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:11:18.631 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:11:18.631 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:11:18.631 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:11:18.636 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@37d4349f] -213705360
+2024-04-01 14:11:18.637 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:11:18.637 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:11:18.637 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:11:18.638 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:11:19.267 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 14:11:19.268 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 14:11:19.269 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:11:19.269 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 14:11:19.270 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 14:11:19.271 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 14:11:19.272 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 14:11:19.535 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 14:11:19.538 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 14:11:19.738 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@37d4349f] -213705360
+2024-04-01 14:11:19.739 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:11:19.740 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:11:19.741 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:11:19.741 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:12:51.747 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 14:12:51.769 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:12:51.780 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:12:51.780 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:12:51.781 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:12:51.783 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 14:12:51.783 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:12:51.784 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:12:51.784 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:12:51.785 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:12:51.800 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@37d4349f] -213705360
+2024-04-01 14:12:51.801 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:12:51.802 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:12:51.802 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:12:51.805 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:12:53.709 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 14:12:53.712 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 14:12:53.713 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:12:53.714 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 14:12:53.715 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 14:12:53.717 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 14:12:53.718 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 14:12:54.298 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 14:12:54.300 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 14:13:03.872 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@37d4349f] -213705360
+2024-04-01 14:13:03.873 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:13:03.873 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:13:03.873 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:13:03.873 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:13:57.160 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 14:13:57.174 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:13:57.177 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:13:57.178 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:13:57.178 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:13:57.179 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 14:13:57.180 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:13:57.180 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:13:57.181 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:13:57.181 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:13:57.191 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@37d4349f] -213705360
+2024-04-01 14:13:57.191 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:13:57.192 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:13:57.192 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:13:57.192 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:13:58.047 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 14:13:58.049 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 14:13:58.050 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:13:58.050 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 14:13:58.051 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 14:13:58.051 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 14:13:58.052 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 14:13:58.346 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 14:13:58.348 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 14:14:05.483 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@37d4349f] -213705360
+2024-04-01 14:14:05.483 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:14:05.484 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:14:05.484 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:14:05.484 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:15:31.426 [main] DEBUG org.testng.TestNG#debug(line:82) - suiteXmlPath: "C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+2024-04-01 14:15:31.687 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 14:15:31.688 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:15:31.692 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:15:31.693 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:15:31.693 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:15:31.694 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 14:15:31.694 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:15:31.694 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:15:31.694 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:15:31.695 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:15:31.704 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@67080771] 578220098
+2024-04-01 14:15:31.704 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:15:31.704 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:15:31.704 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:15:31.704 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:15:31.708 [main] INFO  org.testng.internal.Utils#info(line:112) - [TestNG] Running:
+  C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-04-01 14:15:32.492 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 14:15:32.494 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 14:15:32.495 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:15:32.495 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 14:15:32.496 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 14:15:32.497 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 14:15:32.498 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 14:15:32.790 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 14:15:32.792 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 14:17:46.504 [main] DEBUG org.testng.TestNG#debug(line:82) - suiteXmlPath: "C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+2024-04-01 14:17:46.738 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 14:17:46.738 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:17:46.741 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:17:46.741 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:17:46.741 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:17:46.742 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 14:17:46.742 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:17:46.743 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:17:46.743 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:17:46.743 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:17:46.753 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@65f095f8] 559906505
+2024-04-01 14:17:46.753 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:17:46.753 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:17:46.753 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:17:46.753 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:17:46.757 [main] INFO  org.testng.internal.Utils#info(line:112) - [TestNG] Running:
+  C:\Users\Aina\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-04-01 14:17:47.472 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 14:17:47.476 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 14:17:47.476 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:17:47.477 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 14:17:47.477 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 14:17:47.478 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 14:17:47.478 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 14:17:47.768 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 14:17:47.770 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 14:18:20.315 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+2024-04-01 14:18:20.324 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:18:20.328 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:18:20.329 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:18:20.329 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:18:20.330 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+2024-04-01 14:18:20.331 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:18:20.331 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:18:20.332 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:18:20.332 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:18:20.342 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:applicationrunner.Tests@37d4349f] -213705360
+2024-04-01 14:18:20.343 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ================ SORTING
+2024-04-01 14:18:20.343 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] =============== DONE SORTING
+2024-04-01 14:18:20.343 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== SORTED NODES
+2024-04-01 14:18:20.344 [main] DEBUG org.testng.internal.Graph#debug(line:82) - [Graph] ====== END SORTED NODES
+2024-04-01 14:18:21.049 [main] DEBUG stepdefinitions.Hooks#beforeAll(line:48) - before all tests
+2024-04-01 14:18:21.050 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = dataproviderthreadcount
+2024-04-01 14:18:21.051 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:18:21.051 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = dataproviderthreadcount.default
+2024-04-01 14:18:21.052 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 3
+2024-04-01 14:18:21.052 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = 3
+2024-04-01 14:18:21.053 [main] DEBUG utils.SystemUtils#setSystemProperty(line:48) - setting system property of key = dataproviderthreadcount to value = 3
+2024-04-01 14:18:21.318 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Launch Pixel Pals
+2024-04-01 14:18:21.320 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger

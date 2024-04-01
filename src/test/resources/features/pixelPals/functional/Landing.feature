@@ -1,7 +1,13 @@
-@landingPage @ui @p1
+@landingPage @ui @p0
 Feature: Pixel Pals Landing Page
 
-  @functional
+  @launch
+  Scenario: Launch Pixel Pals
+    Given user on test environment
+    When user on "PIXEL_PALS" application
+    Then pixel pals app is displayed
+
+  @functional @loading
   Scenario Outline: Loading the Landing Page
     Given a user on "PIXEL_PALS" application
     When the user navigates to the pixel pals website url

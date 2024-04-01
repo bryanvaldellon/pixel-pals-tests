@@ -53,7 +53,7 @@ public class MyEdgeWindowsDesktopDriverRemote extends MyDriverRemote {
         browserstackOptions.put("local", "true");//bs local
         browserstackOptions.put("realMobile", "true");
         setCapability("bstack:options", browserstackOptions);
-        mainDto.setBrowserstack(true);
+//        mainDto.setBrowserstack(true);
         mainDto.setPlatformType(PlatformTypes.WINDOWS);
 
         if(Boolean.parseBoolean(SystemUtils.getSystemProperty("headless"))){

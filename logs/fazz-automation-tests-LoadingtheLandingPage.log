@@ -1,0 +1,1058 @@
+2024-04-01 13:33:11.102 [TestNG-PoolService-2] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:33:11.102 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:33:11.102 [TestNG-PoolService-1] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:33:11.108 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:33:11.108 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:33:11.109 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:11.108 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:33:11.111 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:11.111 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:11.112 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:33:11.113 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:33:11.113 [TestNG-PoolService-1] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:33:11.113 [TestNG-PoolService-2] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:33:11.113 [TestNG-PoolService-1] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:33:11.113 [TestNG-PoolService-2] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:33:11.114 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:33:11.114 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:33:11.114 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:33:11.115 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:33:11.115 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:33:11.115 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:33:11.116 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:33:11.116 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:33:11.116 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:33:11.117 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:33:11.117 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:33:11.117 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:33:11.118 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:33:11.119 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:33:11.119 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:33:11.119 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:33:11.119 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:33:11.119 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:33:11.120 [TestNG-PoolService-1] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:33:11.120 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:33:11.120 [TestNG-PoolService-2] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:33:11.120 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:33:11.120 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:33:11.121 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:33:11.121 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:33:11.121 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:33:11.121 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:33:11.122 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:33:11.122 [TestNG-PoolService-1] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:33:11.122 [TestNG-PoolService-2] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:33:11.132 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:33:11.132 [TestNG-PoolService-2] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:33:11.132 [TestNG-PoolService-1] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:33:11.140 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:33:11.140 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:33:11.141 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:33:11.141 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:11.141 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:11.141 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:14.970 [TestNG-PoolService-1] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (eb2a20b33d902a6790fb94f908e7f373)
+2024-04-01 13:33:14.998 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 13:33:14.999 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 13:33:14.999 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 13:33:14.999 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 13:33:14.999 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:33:15.000 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:15.000 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:33:15.000 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:33:15.003 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:33:15.004 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:15.004 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:15.004 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (eb2a20b33d902a6790fb94f908e7f373)
+2024-04-01 13:33:15.005 [TestNG-PoolService-1] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:15.005 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (eb2a20b33d902a6790fb94f908e7f373)
+2024-04-01 13:33:15.201 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:15.201 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:15.204 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#afterScenario(line:57) - executing after scenario hooks!
+2024-04-01 13:33:15.204 [TestNG-PoolService-1] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:33:15.205 [TestNG-PoolService-1] DEBUG utils.SystemUtils#createTextFile(line:147) - File created: failedScenarios.txt
+2024-04-01 13:33:15.206 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#afterScenario(line:59) - Scenario status = FAILED
+2024-04-01 13:33:15.206 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:15.206 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (eb2a20b33d902a6790fb94f908e7f373)
+2024-04-01 13:33:15.206 [TestNG-PoolService-1] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:15.206 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (eb2a20b33d902a6790fb94f908e7f373)
+2024-04-01 13:33:15.332 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:15.332 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:15.334 [TestNG-PoolService-1] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (eb2a20b33d902a6790fb94f908e7f373)
+2024-04-01 13:33:15.334 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:33:15.335 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:15.477 [TestNG-PoolService-1] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:33:15.491 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:33:15.491 [TestNG-PoolService-1] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:33:15.491 [TestNG-PoolService-1] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:33:15.495 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:33:15.496 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:15.496 [TestNG-PoolService-1] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:33:15.496 [TestNG-PoolService-1] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:33:15.496 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:33:15.496 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:33:15.497 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:33:15.497 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:33:15.498 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:33:15.498 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:33:15.498 [TestNG-PoolService-1] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:33:15.498 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:33:15.499 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:33:15.499 [TestNG-PoolService-1] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:33:15.499 [TestNG-PoolService-1] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:33:15.499 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:33:15.499 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:16.628 [TestNG-PoolService-2] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (ea7ae14d2431c9c583e327ea554436db)
+2024-04-01 13:33:16.647 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:33:16.648 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:16.649 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:33:16.649 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:33:16.651 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:33:16.652 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:16.652 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:16.652 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ea7ae14d2431c9c583e327ea554436db)
+2024-04-01 13:33:16.653 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:16.653 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ea7ae14d2431c9c583e327ea554436db)
+2024-04-01 13:33:16.845 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (c727254bdf959d551fb8193712f019f8)
+2024-04-01 13:33:16.863 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:33:16.867 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:16.867 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:33:16.867 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:33:16.869 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:33:16.870 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:16.870 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:16.870 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (c727254bdf959d551fb8193712f019f8)
+2024-04-01 13:33:16.871 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:16.871 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (c727254bdf959d551fb8193712f019f8)
+2024-04-01 13:33:16.885 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:16.886 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:16.890 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#afterScenario(line:57) - executing after scenario hooks!
+2024-04-01 13:33:16.891 [TestNG-PoolService-2] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:33:16.891 [TestNG-PoolService-2] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:33:16.892 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#afterScenario(line:59) - Scenario status = FAILED
+2024-04-01 13:33:16.892 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:16.892 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ea7ae14d2431c9c583e327ea554436db)
+2024-04-01 13:33:16.893 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:16.894 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ea7ae14d2431c9c583e327ea554436db)
+2024-04-01 13:33:17.092 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:17.093 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:17.095 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:57) - executing after scenario hooks!
+2024-04-01 13:33:17.095 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:33:17.095 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:33:17.095 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:59) - Scenario status = FAILED
+2024-04-01 13:33:17.096 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:17.096 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (c727254bdf959d551fb8193712f019f8)
+2024-04-01 13:33:17.096 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:17.096 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (c727254bdf959d551fb8193712f019f8)
+2024-04-01 13:33:17.101 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:17.101 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:17.102 [TestNG-PoolService-2] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (ea7ae14d2431c9c583e327ea554436db)
+2024-04-01 13:33:17.102 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:33:17.103 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:17.339 [TestNG-PoolService-2] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:33:17.341 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:17.341 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:17.342 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (c727254bdf959d551fb8193712f019f8)
+2024-04-01 13:33:17.342 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:33:17.343 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:17.347 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:33:17.347 [TestNG-PoolService-2] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:33:17.348 [TestNG-PoolService-2] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:33:17.348 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:33:17.349 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:17.350 [TestNG-PoolService-2] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:33:17.350 [TestNG-PoolService-2] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:33:17.350 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:33:17.350 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:33:17.351 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:33:17.351 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:33:17.351 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:33:17.352 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:33:17.352 [TestNG-PoolService-2] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:33:17.352 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:33:17.352 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:33:17.352 [TestNG-PoolService-2] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:33:17.353 [TestNG-PoolService-2] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:33:17.353 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:33:17.353 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:17.492 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:33:17.499 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:33:17.499 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:33:17.499 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:33:17.499 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:33:17.500 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:17.500 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:33:17.500 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:33:17.500 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:33:17.500 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:33:17.500 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:33:17.500 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:33:17.501 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:33:17.501 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:33:17.501 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:33:17.501 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:33:17.501 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:33:17.501 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:33:17.502 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:33:17.502 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:33:17.502 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:18.407 [TestNG-PoolService-1] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (2dd8dda791ba5b39cadcb16acedc3d33)
+2024-04-01 13:33:18.414 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:33:18.415 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:18.415 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:33:18.415 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:33:18.416 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:33:18.416 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:18.416 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:18.416 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2dd8dda791ba5b39cadcb16acedc3d33)
+2024-04-01 13:33:18.416 [TestNG-PoolService-1] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:18.417 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2dd8dda791ba5b39cadcb16acedc3d33)
+2024-04-01 13:33:18.588 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:18.588 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:18.590 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#afterScenario(line:57) - executing after scenario hooks!
+2024-04-01 13:33:18.590 [TestNG-PoolService-1] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:33:18.590 [TestNG-PoolService-1] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:33:18.590 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#afterScenario(line:59) - Scenario status = FAILED
+2024-04-01 13:33:18.590 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:18.591 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2dd8dda791ba5b39cadcb16acedc3d33)
+2024-04-01 13:33:18.591 [TestNG-PoolService-1] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:18.591 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2dd8dda791ba5b39cadcb16acedc3d33)
+2024-04-01 13:33:18.718 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:18.718 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:18.719 [TestNG-PoolService-1] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (2dd8dda791ba5b39cadcb16acedc3d33)
+2024-04-01 13:33:18.719 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:33:18.719 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:18.855 [TestNG-PoolService-1] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:33:18.861 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:33:18.861 [TestNG-PoolService-1] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:33:18.861 [TestNG-PoolService-1] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:33:18.862 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:33:18.862 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:18.863 [TestNG-PoolService-1] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:33:18.863 [TestNG-PoolService-1] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:33:18.863 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:33:18.863 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:33:18.863 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:33:18.863 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:33:18.864 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:33:18.864 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:33:18.864 [TestNG-PoolService-1] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:33:18.864 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:33:18.864 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:33:18.864 [TestNG-PoolService-1] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:33:18.864 [TestNG-PoolService-1] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:33:18.864 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:33:18.864 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:19.797 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (a3e76b19c801edb983727a8da73db33f)
+2024-04-01 13:33:19.813 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:33:19.814 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:19.814 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:33:19.814 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:33:19.815 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:33:19.815 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:19.815 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:19.815 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (a3e76b19c801edb983727a8da73db33f)
+2024-04-01 13:33:19.816 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:19.816 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (a3e76b19c801edb983727a8da73db33f)
+2024-04-01 13:33:19.979 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:19.980 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:19.981 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:57) - executing after scenario hooks!
+2024-04-01 13:33:19.981 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:33:19.981 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:33:19.981 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:59) - Scenario status = FAILED
+2024-04-01 13:33:19.981 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:19.982 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (a3e76b19c801edb983727a8da73db33f)
+2024-04-01 13:33:19.983 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:19.983 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (a3e76b19c801edb983727a8da73db33f)
+2024-04-01 13:33:20.192 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:20.192 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:20.193 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (a3e76b19c801edb983727a8da73db33f)
+2024-04-01 13:33:20.193 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:33:20.194 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:20.393 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:33:20.680 [TestNG-PoolService-2] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (19db699fc4964e086ca9f53ecb5240c1)
+2024-04-01 13:33:20.695 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:33:20.697 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:20.697 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:33:20.697 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:33:20.699 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:33:20.700 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:20.700 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:20.700 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (19db699fc4964e086ca9f53ecb5240c1)
+2024-04-01 13:33:20.700 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:20.700 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (19db699fc4964e086ca9f53ecb5240c1)
+2024-04-01 13:33:21.024 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:21.025 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:21.027 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#afterScenario(line:57) - executing after scenario hooks!
+2024-04-01 13:33:21.027 [TestNG-PoolService-2] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:33:21.027 [TestNG-PoolService-2] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:33:21.027 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#afterScenario(line:59) - Scenario status = FAILED
+2024-04-01 13:33:21.027 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:21.028 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (19db699fc4964e086ca9f53ecb5240c1)
+2024-04-01 13:33:21.028 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:21.028 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (19db699fc4964e086ca9f53ecb5240c1)
+2024-04-01 13:33:21.213 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:21.213 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:21.215 [TestNG-PoolService-2] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (19db699fc4964e086ca9f53ecb5240c1)
+2024-04-01 13:33:21.215 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:33:21.216 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:21.380 [TestNG-PoolService-1] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (8ef24e3c4bc69e1c0c750dea19fc3ed4)
+2024-04-01 13:33:21.387 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:33:21.387 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:33:21.388 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:33:21.388 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:33:21.389 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:33:21.389 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:21.390 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:21.390 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8ef24e3c4bc69e1c0c750dea19fc3ed4)
+2024-04-01 13:33:21.390 [TestNG-PoolService-1] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:21.391 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8ef24e3c4bc69e1c0c750dea19fc3ed4)
+2024-04-01 13:33:21.425 [TestNG-PoolService-2] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:33:21.580 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:21.581 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:21.582 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#afterScenario(line:57) - executing after scenario hooks!
+2024-04-01 13:33:21.582 [TestNG-PoolService-1] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:33:21.582 [TestNG-PoolService-1] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:33:21.582 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#afterScenario(line:59) - Scenario status = FAILED
+2024-04-01 13:33:21.582 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:33:21.582 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8ef24e3c4bc69e1c0c750dea19fc3ed4)
+2024-04-01 13:33:21.583 [TestNG-PoolService-1] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:33:21.583 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8ef24e3c4bc69e1c0c750dea19fc3ed4)
+2024-04-01 13:33:21.790 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:21.791 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:33:21.791 [TestNG-PoolService-1] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (8ef24e3c4bc69e1c0c750dea19fc3ed4)
+2024-04-01 13:33:21.791 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:33:21.792 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:33:21.945 [TestNG-PoolService-1] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:39:13.341 [TestNG-PoolService-1] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:39:13.341 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:39:13.341 [TestNG-PoolService-2] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:39:13.345 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:39:13.345 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:39:13.346 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:39:13.346 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:13.346 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:13.346 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:13.348 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:39:13.348 [TestNG-PoolService-1] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:39:13.348 [TestNG-PoolService-2] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:39:13.349 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:39:13.349 [TestNG-PoolService-2] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:39:13.349 [TestNG-PoolService-1] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:39:13.350 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 13:39:13.350 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 13:39:13.350 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 13:39:13.350 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:13.350 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:13.350 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:13.351 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 13:39:13.351 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 13:39:13.351 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 13:39:13.352 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 13:39:13.352 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 13:39:13.352 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 13:39:13.352 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 13:39:13.352 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 13:39:13.352 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 13:39:13.353 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 13:39:13.353 [TestNG-PoolService-2] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 13:39:13.353 [TestNG-PoolService-1] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 13:39:13.355 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:39:13.355 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:39:13.355 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:39:13.356 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:39:13.356 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:39:13.356 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:39:13.356 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:13.356 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:13.356 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:13.357 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:39:13.357 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:39:13.357 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:39:13.358 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:39:13.358 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:39:13.358 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:39:13.358 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:39:13.358 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:39:13.358 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:39:13.359 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:39:13.359 [TestNG-PoolService-2] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:39:13.359 [TestNG-PoolService-1] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:39:13.359 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:39:13.359 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:39:13.360 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:39:13.360 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:39:13.360 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:39:13.360 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:39:13.362 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:39:13.362 [TestNG-PoolService-1] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:39:13.362 [TestNG-PoolService-2] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:39:13.382 [TestNG-PoolService-1] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:39:13.382 [TestNG-PoolService-2] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:39:13.382 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:39:13.393 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:39:13.393 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:39:13.393 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:39:13.394 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:13.395 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:13.395 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:15.214 [TestNG-PoolService-1] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (8c0f33544b862221b7ee370184be4074)
+2024-04-01 13:39:15.245 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 13:39:15.246 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 13:39:15.246 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 13:39:15.246 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 13:39:15.247 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:39:15.247 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:15.247 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:39:15.247 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:39:15.247 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 13:39:15.247 [TestNG-PoolService-1] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 13:39:15.248 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8c0f33544b862221b7ee370184be4074)
+2024-04-01 13:39:17.079 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (09caf6511b035d5724c7f879241e8b4f)
+2024-04-01 13:39:17.103 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:39:17.104 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:17.104 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:39:17.105 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:39:17.105 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 13:39:17.105 [TestNG-PoolService-0] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 13:39:17.106 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (09caf6511b035d5724c7f879241e8b4f)
+2024-04-01 13:39:17.297 [TestNG-PoolService-2] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (f0be0dc57fc42497aec5f46166c58f8f)
+2024-04-01 13:39:17.353 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:39:17.357 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:17.357 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:39:17.358 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:39:17.358 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 13:39:17.358 [TestNG-PoolService-2] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 13:39:17.358 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f0be0dc57fc42497aec5f46166c58f8f)
+2024-04-01 13:39:17.988 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 13:39:17.989 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:17.991 [TestNG-PoolService-1] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 13:39:17.992 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8c0f33544b862221b7ee370184be4074)
+2024-04-01 13:39:18.104 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 13:39:18.106 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:18.107 [TestNG-PoolService-0] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 13:39:18.107 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (09caf6511b035d5724c7f879241e8b4f)
+2024-04-01 13:39:18.171 [TestNG-PoolService-0] DEBUG utils.DriverUtils#getURL(line:49) - general error occurred when launching url, will try to re launch!
+2024-04-01 13:39:18.180 [TestNG-PoolService-0] DEBUG utils.DriverUtils#getURL(line:50) - launchURL - 
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=123.0.2420.65)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [09caf6511b035d5724c7f879241e8b4f, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.65, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61235}, msedge: {msedgedriverVersion: 123.0.2420.65 (49b6a5859239..., userDataDir: C:\Users\Aina\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61235/devtoo..., se:cdpVersion: 123.0.2420.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 09caf6511b035d5724c7f879241e8b4f
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:596)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:1039)
+	at utils.DriverUtils.maximizeBrowser(DriverUtils.java:67)
+	at utils.DriverUtils.getURL(DriverUtils.java:46)
+	at utils.DriverUtils.getURL(DriverUtils.java:38)
+	at drivers.DriverBase.<init>(DriverBase.java:25)
+	at steps.LandingStep.setApplicationLanding(LandingStep.java:21)
+	at stepdefinitions.LandingStepDefinition.setApplicationLanding(LandingStepDefinition.java:18)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80)
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-04-01 13:39:18.182 [TestNG-PoolService-0] DEBUG utils.SystemUtils#threadSleep(line:126) - sleeping thread in = 5000 milliseconds
+2024-04-01 13:39:18.206 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:39:18.210 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:18.211 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:18.211 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8c0f33544b862221b7ee370184be4074)
+2024-04-01 13:39:18.212 [TestNG-PoolService-1] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:18.212 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8c0f33544b862221b7ee370184be4074)
+2024-04-01 13:39:18.522 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:18.523 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:18.539 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:39:18.540 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:18.543 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:39:18.544 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:18.545 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:18.546 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8c0f33544b862221b7ee370184be4074)
+2024-04-01 13:39:18.547 [TestNG-PoolService-1] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:18.547 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8c0f33544b862221b7ee370184be4074)
+2024-04-01 13:39:18.676 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 13:39:18.678 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:18.678 [TestNG-PoolService-2] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 13:39:18.678 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f0be0dc57fc42497aec5f46166c58f8f)
+2024-04-01 13:39:18.685 [TestNG-PoolService-2] DEBUG utils.DriverUtils#getURL(line:49) - general error occurred when launching url, will try to re launch!
+2024-04-01 13:39:18.686 [TestNG-PoolService-2] DEBUG utils.DriverUtils#getURL(line:50) - launchURL - 
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=123.0.2420.65)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f0be0dc57fc42497aec5f46166c58f8f, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.65, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61236}, msedge: {msedgedriverVersion: 123.0.2420.65 (49b6a5859239..., userDataDir: C:\Users\Aina\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61236/devtoo..., se:cdpVersion: 123.0.2420.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0be0dc57fc42497aec5f46166c58f8f
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:596)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:1039)
+	at utils.DriverUtils.maximizeBrowser(DriverUtils.java:67)
+	at utils.DriverUtils.getURL(DriverUtils.java:46)
+	at utils.DriverUtils.getURL(DriverUtils.java:38)
+	at drivers.DriverBase.<init>(DriverBase.java:25)
+	at steps.LandingStep.setApplicationLanding(LandingStep.java:21)
+	at stepdefinitions.LandingStepDefinition.setApplicationLanding(LandingStepDefinition.java:18)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80)
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-04-01 13:39:18.687 [TestNG-PoolService-2] DEBUG utils.SystemUtils#threadSleep(line:126) - sleeping thread in = 5000 milliseconds
+2024-04-01 13:39:18.791 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:18.791 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:18.803 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:39:18.803 [TestNG-PoolService-1] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:39:18.804 [TestNG-PoolService-1] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:39:18.805 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = UNDEFINED
+2024-04-01 13:39:18.805 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:18.805 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8c0f33544b862221b7ee370184be4074)
+2024-04-01 13:39:18.805 [TestNG-PoolService-1] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:18.806 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8c0f33544b862221b7ee370184be4074)
+2024-04-01 13:39:18.974 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:18.975 [TestNG-PoolService-1] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:18.978 [TestNG-PoolService-1] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (8c0f33544b862221b7ee370184be4074)
+2024-04-01 13:39:18.978 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:39:18.979 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:19.147 [TestNG-PoolService-1] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:39:19.165 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:39:19.166 [TestNG-PoolService-1] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:39:19.166 [TestNG-PoolService-1] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:39:19.171 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:39:19.172 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:19.173 [TestNG-PoolService-1] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:39:19.173 [TestNG-PoolService-1] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:39:19.173 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 13:39:19.174 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:19.174 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 13:39:19.175 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 13:39:19.176 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 13:39:19.176 [TestNG-PoolService-1] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 13:39:19.176 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:39:19.177 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:39:19.177 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:19.177 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:39:19.178 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:39:19.179 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:39:19.179 [TestNG-PoolService-1] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:39:19.180 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:39:19.180 [TestNG-PoolService-1] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:39:19.180 [TestNG-PoolService-1] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:39:19.181 [TestNG-PoolService-1] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:39:19.181 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:39:19.182 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:20.346 [TestNG-PoolService-1] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (ac6c2796865ccfa1b1d5a358e92dde51)
+2024-04-01 13:39:20.353 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:39:20.353 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:20.354 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:39:20.354 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:39:20.354 [TestNG-PoolService-1] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 13:39:20.354 [TestNG-PoolService-1] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 13:39:20.354 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ac6c2796865ccfa1b1d5a358e92dde51)
+2024-04-01 13:39:21.879 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 13:39:21.879 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:21.880 [TestNG-PoolService-1] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 13:39:21.880 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ac6c2796865ccfa1b1d5a358e92dde51)
+2024-04-01 13:39:23.191 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (09caf6511b035d5724c7f879241e8b4f)
+2024-04-01 13:39:23.196 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:39:23.196 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:23.196 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:23.196 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (09caf6511b035d5724c7f879241e8b4f)
+2024-04-01 13:39:23.196 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:23.197 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (09caf6511b035d5724c7f879241e8b4f)
+2024-04-01 13:39:23.201 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:160) - general error encountered on screenshot! = no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=123.0.2420.65)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [09caf6511b035d5724c7f879241e8b4f, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.65, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61235}, msedge: {msedgedriverVersion: 123.0.2420.65 (49b6a5859239..., userDataDir: C:\Users\Aina\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61235/devtoo..., se:cdpVersion: 123.0.2420.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 09caf6511b035d5724c7f879241e8b4f
+2024-04-01 13:39:23.202 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:39:23.203 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:39:23.203 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:39:23.204 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 13:39:23.204 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:23.204 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (09caf6511b035d5724c7f879241e8b4f)
+2024-04-01 13:39:23.204 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:23.204 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (09caf6511b035d5724c7f879241e8b4f)
+2024-04-01 13:39:23.207 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:160) - general error encountered on screenshot! = no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=123.0.2420.65)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [09caf6511b035d5724c7f879241e8b4f, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.65, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61235}, msedge: {msedgedriverVersion: 123.0.2420.65 (49b6a5859239..., userDataDir: C:\Users\Aina\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61235/devtoo..., se:cdpVersion: 123.0.2420.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 09caf6511b035d5724c7f879241e8b4f
+2024-04-01 13:39:23.208 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (09caf6511b035d5724c7f879241e8b4f)
+2024-04-01 13:39:23.208 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:39:23.208 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:23.292 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:39:23.300 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:39:23.300 [TestNG-PoolService-0] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:39:23.300 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:39:23.301 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:39:23.302 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:23.303 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:39:23.304 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:39:23.305 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 13:39:23.305 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:23.306 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 13:39:23.306 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 13:39:23.307 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 13:39:23.308 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 13:39:23.308 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:39:23.308 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:39:23.309 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:23.309 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:39:23.310 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:39:23.310 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:39:23.310 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:39:23.310 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:39:23.310 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:39:23.311 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:39:23.311 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:39:23.311 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:39:23.312 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:23.690 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f0be0dc57fc42497aec5f46166c58f8f)
+2024-04-01 13:39:23.695 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:39:23.695 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:23.695 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:23.696 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f0be0dc57fc42497aec5f46166c58f8f)
+2024-04-01 13:39:23.696 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:23.696 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f0be0dc57fc42497aec5f46166c58f8f)
+2024-04-01 13:39:23.698 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:160) - general error encountered on screenshot! = no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=123.0.2420.65)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f0be0dc57fc42497aec5f46166c58f8f, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.65, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61236}, msedge: {msedgedriverVersion: 123.0.2420.65 (49b6a5859239..., userDataDir: C:\Users\Aina\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61236/devtoo..., se:cdpVersion: 123.0.2420.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0be0dc57fc42497aec5f46166c58f8f
+2024-04-01 13:39:23.699 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:39:23.700 [TestNG-PoolService-2] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:39:23.700 [TestNG-PoolService-2] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:39:23.700 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 13:39:23.700 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:23.700 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f0be0dc57fc42497aec5f46166c58f8f)
+2024-04-01 13:39:23.700 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:23.700 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f0be0dc57fc42497aec5f46166c58f8f)
+2024-04-01 13:39:23.704 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:160) - general error encountered on screenshot! = no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=123.0.2420.65)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f0be0dc57fc42497aec5f46166c58f8f, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.65, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61236}, msedge: {msedgedriverVersion: 123.0.2420.65 (49b6a5859239..., userDataDir: C:\Users\Aina\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61236/devtoo..., se:cdpVersion: 123.0.2420.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0be0dc57fc42497aec5f46166c58f8f
+2024-04-01 13:39:23.704 [TestNG-PoolService-2] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (f0be0dc57fc42497aec5f46166c58f8f)
+2024-04-01 13:39:23.704 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:39:23.704 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:23.790 [TestNG-PoolService-2] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:39:23.798 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:39:23.798 [TestNG-PoolService-2] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:39:23.798 [TestNG-PoolService-2] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:39:23.798 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:39:23.799 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:23.799 [TestNG-PoolService-2] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:39:23.799 [TestNG-PoolService-2] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:39:23.799 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 13:39:23.800 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:23.801 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 13:39:23.802 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 13:39:23.802 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 13:39:23.802 [TestNG-PoolService-2] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 13:39:23.803 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:39:23.803 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:39:23.803 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:23.803 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:39:23.804 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:39:23.804 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:39:23.804 [TestNG-PoolService-2] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:39:23.805 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:39:23.805 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:39:23.805 [TestNG-PoolService-2] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:39:23.805 [TestNG-PoolService-2] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:39:23.805 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:39:23.805 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:24.504 [TestNG-PoolService-1] DEBUG utils.DriverUtils#getURL(line:49) - general error occurred when launching url, will try to re launch!
+2024-04-01 13:39:24.505 [TestNG-PoolService-1] DEBUG utils.DriverUtils#getURL(line:50) - launchURL - 
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ac6c2796865ccfa1b1d5a358e92dde51, maximizeCurrentWindow []]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.65, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61298}, msedge: {msedgedriverVersion: 123.0.2420.65 (49b6a5859239..., userDataDir: C:\Users\Aina\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61298/devtoo..., se:cdpVersion: 123.0.2420.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac6c2796865ccfa1b1d5a358e92dde51
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:550)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:596)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:1039)
+	at utils.DriverUtils.maximizeBrowser(DriverUtils.java:67)
+	at utils.DriverUtils.getURL(DriverUtils.java:46)
+	at utils.DriverUtils.getURL(DriverUtils.java:38)
+	at drivers.DriverBase.<init>(DriverBase.java:25)
+	at steps.LandingStep.setApplicationLanding(LandingStep.java:21)
+	at stepdefinitions.LandingStepDefinition.setApplicationLanding(LandingStepDefinition.java:18)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:85)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:57)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:129)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:129)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80)
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.io.UncheckedIOException: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:442)
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:358)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:188)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	... 46 common frames omitted
+Caused by: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at java.net.http/jdk.internal.net.http.common.Utils.wrapWithExtraDetail(Utils.java:348)
+	at java.net.http/jdk.internal.net.http.Http1Response$HeadersReader.onReadError(Http1Response.java:675)
+	at java.net.http/jdk.internal.net.http.Http1AsyncReceiver.checkForErrors(Http1AsyncReceiver.java:302)
+	at java.net.http/jdk.internal.net.http.Http1AsyncReceiver.flush(Http1AsyncReceiver.java:268)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:205)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:230)
+	... 3 common frames omitted
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1170)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:833)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:230)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:303)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:256)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:774)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:957)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:979)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:934)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:934)
+2024-04-01 13:39:24.505 [TestNG-PoolService-1] DEBUG utils.SystemUtils#threadSleep(line:126) - sleeping thread in = 5000 milliseconds
+2024-04-01 13:39:25.346 [TestNG-PoolService-2] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (1c4b55ee0876e49d2ca2c590088cf448)
+2024-04-01 13:39:25.368 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:39:25.368 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:25.369 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:39:25.369 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:39:25.369 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 13:39:25.369 [TestNG-PoolService-2] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 13:39:25.370 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (1c4b55ee0876e49d2ca2c590088cf448)
+2024-04-01 13:39:25.646 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (2af9a7b201142d316eaa64ca6c871c2d)
+2024-04-01 13:39:25.658 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:39:25.660 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:25.661 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:39:25.661 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:39:25.661 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 13:39:25.661 [TestNG-PoolService-0] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 13:39:25.661 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2af9a7b201142d316eaa64ca6c871c2d)
+2024-04-01 13:39:27.348 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 13:39:27.350 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:27.350 [TestNG-PoolService-2] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 13:39:27.350 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (1c4b55ee0876e49d2ca2c590088cf448)
+2024-04-01 13:39:27.437 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 13:39:27.439 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:27.439 [TestNG-PoolService-0] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 13:39:27.440 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2af9a7b201142d316eaa64ca6c871c2d)
+2024-04-01 13:39:27.499 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:39:27.499 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:27.500 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:27.500 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (1c4b55ee0876e49d2ca2c590088cf448)
+2024-04-01 13:39:27.500 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:27.501 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (1c4b55ee0876e49d2ca2c590088cf448)
+2024-04-01 13:39:27.575 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:39:27.576 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:27.577 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:27.577 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2af9a7b201142d316eaa64ca6c871c2d)
+2024-04-01 13:39:27.577 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:27.577 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2af9a7b201142d316eaa64ca6c871c2d)
+2024-04-01 13:39:27.720 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:27.720 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:27.724 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:39:27.725 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:27.725 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:39:27.726 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:27.727 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:27.727 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (1c4b55ee0876e49d2ca2c590088cf448)
+2024-04-01 13:39:27.727 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:27.727 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (1c4b55ee0876e49d2ca2c590088cf448)
+2024-04-01 13:39:27.758 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:27.758 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:27.759 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:39:27.760 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:27.760 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:39:27.760 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:27.760 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:27.761 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2af9a7b201142d316eaa64ca6c871c2d)
+2024-04-01 13:39:27.761 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:27.761 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2af9a7b201142d316eaa64ca6c871c2d)
+2024-04-01 13:39:27.912 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:27.913 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:27.914 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:39:27.914 [TestNG-PoolService-2] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:39:27.915 [TestNG-PoolService-2] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:39:27.916 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = UNDEFINED
+2024-04-01 13:39:27.916 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:27.916 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (1c4b55ee0876e49d2ca2c590088cf448)
+2024-04-01 13:39:27.917 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:27.917 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (1c4b55ee0876e49d2ca2c590088cf448)
+2024-04-01 13:39:27.948 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:27.948 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:27.950 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:39:27.950 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:39:27.950 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:39:27.950 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = UNDEFINED
+2024-04-01 13:39:27.951 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:27.951 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2af9a7b201142d316eaa64ca6c871c2d)
+2024-04-01 13:39:27.951 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:27.951 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (2af9a7b201142d316eaa64ca6c871c2d)
+2024-04-01 13:39:28.094 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:28.094 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:28.095 [TestNG-PoolService-2] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (1c4b55ee0876e49d2ca2c590088cf448)
+2024-04-01 13:39:28.096 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:39:28.096 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:28.173 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:28.174 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:28.178 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (2af9a7b201142d316eaa64ca6c871c2d)
+2024-04-01 13:39:28.178 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:39:28.179 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:28.294 [TestNG-PoolService-2] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:39:28.306 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#beforeScenario(line:40) - starting scenario = Loading the Landing Page
+2024-04-01 13:39:28.307 [TestNG-PoolService-2] DEBUG utils.LoggerUtils#setScenarioName(line:13) - setting scenario name for logger
+2024-04-01 13:39:28.307 [TestNG-PoolService-2] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Loading the Landing Page
+2024-04-01 13:39:28.307 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:39:28.308 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:28.308 [TestNG-PoolService-2] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:39:28.308 [TestNG-PoolService-2] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:39:28.308 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 13:39:28.308 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:28.308 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 13:39:28.309 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 13:39:28.309 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 13:39:28.309 [TestNG-PoolService-2] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 13:39:28.309 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:39:28.309 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:39:28.309 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:39:28.309 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:39:28.309 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:39:28.309 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:39:28.310 [TestNG-PoolService-2] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:39:28.310 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:39:28.310 [TestNG-PoolService-2] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:39:28.310 [TestNG-PoolService-2] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:39:28.310 [TestNG-PoolService-2] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:39:28.310 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:39:28.310 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:28.358 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:39:29.474 [TestNG-PoolService-2] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (8be114c65522c0929640902cb54bcb02)
+2024-04-01 13:39:29.481 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:39:29.481 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:29.482 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:39:29.483 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:39:29.483 [TestNG-PoolService-2] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 13:39:29.484 [TestNG-PoolService-2] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 13:39:29.484 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8be114c65522c0929640902cb54bcb02)
+2024-04-01 13:39:29.507 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ac6c2796865ccfa1b1d5a358e92dde51)
+2024-04-01 13:39:29.516 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:39:29.517 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:29.517 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:29.517 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ac6c2796865ccfa1b1d5a358e92dde51)
+2024-04-01 13:39:29.517 [TestNG-PoolService-1] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:29.517 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ac6c2796865ccfa1b1d5a358e92dde51)
+2024-04-01 13:39:29.522 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:160) - general error encountered on screenshot! = Error communicating with the remote browser. It may have died.
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ac6c2796865ccfa1b1d5a358e92dde51, screenshot []]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.65, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61298}, msedge: {msedgedriverVersion: 123.0.2420.65 (49b6a5859239..., userDataDir: C:\Users\Aina\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61298/devtoo..., se:cdpVersion: 123.0.2420.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac6c2796865ccfa1b1d5a358e92dde51
+2024-04-01 13:39:29.524 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:39:29.525 [TestNG-PoolService-1] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:39:29.525 [TestNG-PoolService-1] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:39:29.525 [TestNG-PoolService-1] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 13:39:29.525 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:29.525 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ac6c2796865ccfa1b1d5a358e92dde51)
+2024-04-01 13:39:29.526 [TestNG-PoolService-1] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:29.526 [TestNG-PoolService-1] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ac6c2796865ccfa1b1d5a358e92dde51)
+2024-04-01 13:39:29.531 [TestNG-PoolService-1] DEBUG utils.DriverUtils#takeScreenshot(line:160) - general error encountered on screenshot! = Error communicating with the remote browser. It may have died.
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ac6c2796865ccfa1b1d5a358e92dde51, screenshot []]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.65, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61298}, msedge: {msedgedriverVersion: 123.0.2420.65 (49b6a5859239..., userDataDir: C:\Users\Aina\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61298/devtoo..., se:cdpVersion: 123.0.2420.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac6c2796865ccfa1b1d5a358e92dde51
+2024-04-01 13:39:29.531 [TestNG-PoolService-1] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (ac6c2796865ccfa1b1d5a358e92dde51)
+2024-04-01 13:39:29.531 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:39:29.532 [TestNG-PoolService-1] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:29.542 [TestNG-PoolService-1] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:39:30.831 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 13:39:30.831 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:30.831 [TestNG-PoolService-2] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 13:39:30.831 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8be114c65522c0929640902cb54bcb02)
+2024-04-01 13:39:30.966 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:39:30.967 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:30.967 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:30.967 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8be114c65522c0929640902cb54bcb02)
+2024-04-01 13:39:30.967 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:30.967 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8be114c65522c0929640902cb54bcb02)
+2024-04-01 13:39:31.175 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:31.175 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:31.176 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:39:31.177 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:39:31.177 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:39:31.178 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:31.178 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:31.178 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8be114c65522c0929640902cb54bcb02)
+2024-04-01 13:39:31.178 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:31.178 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8be114c65522c0929640902cb54bcb02)
+2024-04-01 13:39:31.358 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:31.358 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:31.361 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:39:31.361 [TestNG-PoolService-2] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:39:31.362 [TestNG-PoolService-2] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:39:31.362 [TestNG-PoolService-2] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = UNDEFINED
+2024-04-01 13:39:31.362 [TestNG-PoolService-2] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:39:31.362 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8be114c65522c0929640902cb54bcb02)
+2024-04-01 13:39:31.362 [TestNG-PoolService-2] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:39:31.362 [TestNG-PoolService-2] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (8be114c65522c0929640902cb54bcb02)
+2024-04-01 13:39:31.548 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:31.548 [TestNG-PoolService-2] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Loading the Landing Page
+2024-04-01 13:39:31.550 [TestNG-PoolService-2] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (8be114c65522c0929640902cb54bcb02)
+2024-04-01 13:39:31.550 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:39:31.550 [TestNG-PoolService-2] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:39:31.716 [TestNG-PoolService-2] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)

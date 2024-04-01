@@ -47,9 +47,6 @@ public class Hooks {
     public static void beforeAll(){
         LOGGER.debug("before all tests");
         SystemUtils.setSystemProperty("dataproviderthreadcount", SystemUtils.getSystemProperty("dataproviderthreadcount"));
-        timeStamp = DateUtils.getCurrentDateTime("dd-MM-yyyy HH:mm");
-        reportsName = reportsName + timeStamp;
-        SystemUtils.setSystemProperty("browserstack.build", timeStamp);
     }
 
     @After

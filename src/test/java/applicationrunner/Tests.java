@@ -12,7 +12,7 @@ import org.testng.annotations.DataProvider;
         },
         features = "src/test/resources/features",
         glue = "stepdefinitions",
-        tags = "@p0"
+        tags = "@launch"
 )
 public class Tests extends AbstractTestNGCucumberTests {
 

@@ -51,40 +51,40 @@ public class WaitUtils {
         //TODO below gives org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32000,"message":"No node with given id found"}
         // will create a temporary logic for this method https://groups.google.com/g/chromedriver-users/c/ziWgK92VNJY
         // methods of ExpectedConditions are returning the error above
-//        WebDriverWait wait = setWebDriverWait(mainDto, timeoutInSecs, sleepInMillis);
-//        try {
-//            wait.until(ExpectedConditions.visibilityOf(element));
-//            LOGGER.debug("found element: {}", element);
-//        } catch (TimeoutException e) {
-//           ExceptionUtils.tryCatchExceptionHandler("waitForElementVisibility - ", e);
-//        }
-//        catch (StaleElementReferenceException e){
-//            LOGGER.debug("StaleElementReferenceException encountered, will try to fix!");
-//            wait.until(ExpectedConditions.elementToBeClickable(ElementUtils.getRefreshedStaleElement(mainDto.getDriver(), element))).isDisplayed();
-//        }
-        int sleepMultiplier = 1000 / sleepInMillis;
-        timeoutInSecs = timeoutInSecs * sleepMultiplier;
-        LOGGER.debug("waitTime = {}", timeoutInSecs);
-        LOGGER.debug("sleepMultiplier = {}", sleepMultiplier);
-        while(timeoutInSecs > 0){
-            try{
-                if(!element.isDisplayed()){
-                    SystemUtils.threadSleep(sleepInMillis);
-                }
-                else {
-                    break;
-                }
-            }
-            catch (WebDriverException e){
-                LOGGER.debug("StaleElementReferenceException encountered, continueing to wait!");
-                element = ElementUtils.getRefreshedStaleElement(mainDto, element);
-                continue;
-            }
-            timeoutInSecs--;
+        WebDriverWait wait = setWebDriverWait(mainDto, timeoutInSecs, sleepInMillis);
+        try {
+            wait.until(ExpectedConditions.visibilityOf(element));
+            LOGGER.debug("found element: {}", element);
+        } catch (TimeoutException e) {
+           ExceptionUtils.tryCatchExceptionHandler("waitForElementVisibility - ", e);
         }
-        if(timeoutInSecs <= 0){
-            ExceptionUtils.tryCatchExceptionHandler("element = {} is not displayed even after waiting!");
+        catch (StaleElementReferenceException e){
+            LOGGER.debug("StaleElementReferenceException encountered, will try to fix!");
+            wait.until(ExpectedConditions.elementToBeClickable(ElementUtils.getRefreshedStaleElement(mainDto.getDriver(), element))).isDisplayed();
         }
+//        int sleepMultiplier = 1000 / sleepInMillis;
+//        timeoutInSecs = timeoutInSecs * sleepMultiplier;
+//        LOGGER.debug("waitTime = {}", timeoutInSecs);
+//        LOGGER.debug("sleepMultiplier = {}", sleepMultiplier);
+//        while(timeoutInSecs > 0){
+//            try{
+//                if(!element.isDisplayed()){
+//                    SystemUtils.threadSleep(sleepInMillis);
+//                }
+//                else {
+//                    break;
+//                }
+//            }
+//            catch (WebDriverException e){
+//                LOGGER.debug("StaleElementReferenceException encountered, continueing to wait!");
+//                element = ElementUtils.getRefreshedStaleElement(mainDto, element);
+//                continue;
+//            }
+//            timeoutInSecs--;
+//        }
+//        if(timeoutInSecs <= 0){
+//            ExceptionUtils.tryCatchExceptionHandler("element = {} is not displayed even after waiting!");
+//        }
         return element;
     }
 

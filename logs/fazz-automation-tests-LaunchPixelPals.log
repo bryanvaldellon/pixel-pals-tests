@@ -1,0 +1,839 @@
+2024-04-01 13:43:11.692 [main] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 13:43:11.696 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:43:11.697 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:43:11.700 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:43:11.701 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:43:11.703 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 13:43:11.704 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 13:43:11.710 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 13:43:11.711 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 13:43:11.711 [main] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:43:11.711 [main] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 13:43:11.711 [main] DEBUG utils.DriverUtils#takeScreenshot(line:149) - will not perform screenshot when driver is null!
+2024-04-01 13:43:11.713 [main] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:43:11.714 [main] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:43:11.715 [main] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:43:11.719 [main] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = UNDEFINED
+2024-04-01 13:43:11.720 [main] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:43:11.720 [main] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 13:43:11.721 [main] DEBUG utils.DriverUtils#takeScreenshot(line:149) - will not perform screenshot when driver is null!
+2024-04-01 13:43:11.721 [main] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = null
+2024-04-01 13:43:39.582 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 13:43:39.587 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:43:39.588 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:43:39.588 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 13:43:39.588 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:43:39.589 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 13:43:39.589 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 13:43:39.589 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 13:43:39.589 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 13:43:39.590 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:43:39.591 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:43:39.593 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 13:43:39.593 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 13:43:39.594 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 13:43:39.595 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 13:43:39.595 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:43:39.596 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 13:43:39.596 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:149) - will not perform screenshot when driver is null!
+2024-04-01 13:43:39.597 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:43:39.598 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:43:39.599 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:43:39.599 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:43:39.600 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:43:39.600 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:43:39.601 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:43:39.601 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:43:39.601 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:43:39.601 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:43:39.601 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:43:39.601 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:43:39.602 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:43:39.602 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:43:39.611 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:43:39.620 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:43:39.620 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:43:41.336 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (ca146e420ccb5256a50ba62684eaf1a9)
+2024-04-01 13:43:41.450 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:43:41.451 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:43:41.451 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:43:41.451 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:43:41.451 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 13:43:41.452 [TestNG-PoolService-0] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 13:43:41.452 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ca146e420ccb5256a50ba62684eaf1a9)
+2024-04-01 13:43:42.573 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 13:43:42.574 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:43:42.575 [TestNG-PoolService-0] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 13:43:42.575 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ca146e420ccb5256a50ba62684eaf1a9)
+2024-04-01 13:43:42.718 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:43:42.719 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:43:42.719 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:43:42.719 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ca146e420ccb5256a50ba62684eaf1a9)
+2024-04-01 13:43:42.720 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:43:42.720 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ca146e420ccb5256a50ba62684eaf1a9)
+2024-04-01 13:43:42.916 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:43:42.917 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:43:42.926 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:43:42.926 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:43:42.927 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:43:42.928 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:43:42.928 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:43:42.928 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ca146e420ccb5256a50ba62684eaf1a9)
+2024-04-01 13:43:42.929 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:43:42.929 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ca146e420ccb5256a50ba62684eaf1a9)
+2024-04-01 13:43:43.118 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:43:43.118 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:43:43.126 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:43:43.126 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:43:43.127 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:43:43.128 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = UNDEFINED
+2024-04-01 13:43:43.128 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:43:43.129 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ca146e420ccb5256a50ba62684eaf1a9)
+2024-04-01 13:43:43.129 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:43:43.129 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (ca146e420ccb5256a50ba62684eaf1a9)
+2024-04-01 13:43:43.315 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:43:43.316 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:43:43.319 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (ca146e420ccb5256a50ba62684eaf1a9)
+2024-04-01 13:43:43.320 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:43:43.320 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:43:43.499 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:109) - checking if driver is still existing = EdgeDriver: MicrosoftEdge on windows (null)
+2024-04-01 13:45:02.093 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 13:45:02.099 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:45:02.100 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:45:02.101 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 13:45:02.101 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:45:02.101 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 13:45:02.102 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 13:45:02.102 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 13:45:02.102 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 13:45:02.103 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:45:02.103 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:45:02.105 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 13:45:02.106 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 13:45:02.106 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 13:45:02.107 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 13:45:02.108 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:45:02.108 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 13:45:02.108 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:149) - will not perform screenshot when driver is null!
+2024-04-01 13:45:02.108 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:45:02.109 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:45:02.110 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:45:02.110 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:45:02.111 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:45:02.111 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:45:02.111 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:45:02.111 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:45:02.112 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:45:02.112 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:45:02.112 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:45:02.112 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:45:02.113 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:45:02.114 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:45:02.123 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:45:02.135 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:45:02.136 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:45:03.812 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (dca84d295690a42437154cd504bdc349)
+2024-04-01 13:45:03.890 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:45:03.891 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:45:03.891 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:45:03.891 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:45:03.891 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 13:45:03.892 [TestNG-PoolService-0] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 13:45:03.893 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (dca84d295690a42437154cd504bdc349)
+2024-04-01 13:45:04.950 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 13:45:04.951 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:45:04.951 [TestNG-PoolService-0] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 13:45:04.951 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (dca84d295690a42437154cd504bdc349)
+2024-04-01 13:45:05.090 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:45:05.091 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:45:05.091 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:45:05.091 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (dca84d295690a42437154cd504bdc349)
+2024-04-01 13:45:05.091 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:45:05.091 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (dca84d295690a42437154cd504bdc349)
+2024-04-01 13:45:05.294 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:45:05.295 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:45:05.303 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.steps
+2024-04-01 13:45:05.303 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:45:05.304 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.steps
+2024-04-01 13:45:05.305 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:45:05.306 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:45:05.306 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (dca84d295690a42437154cd504bdc349)
+2024-04-01 13:45:05.306 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:45:05.307 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (dca84d295690a42437154cd504bdc349)
+2024-04-01 13:45:05.473 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:45:05.474 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:45:05.481 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:45:05.481 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:45:05.481 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:45:05.482 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = UNDEFINED
+2024-04-01 13:45:05.483 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:45:05.483 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (dca84d295690a42437154cd504bdc349)
+2024-04-01 13:45:05.483 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:45:05.483 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (dca84d295690a42437154cd504bdc349)
+2024-04-01 13:45:05.684 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:45:05.684 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:45:05.688 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (dca84d295690a42437154cd504bdc349)
+2024-04-01 13:45:05.689 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:45:05.689 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:52:27.630 [main] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 13:52:27.636 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 13:52:27.637 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 13:52:27.638 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 13:52:27.638 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:52:27.638 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 13:52:27.639 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 13:52:27.639 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 13:52:27.639 [main] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 13:52:27.640 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 13:52:27.641 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 13:52:27.641 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 13:52:27.642 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 13:52:27.645 [main] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 13:52:27.645 [main] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 13:52:27.646 [main] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 13:52:27.646 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 13:52:27.647 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:52:27.647 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 13:52:27.647 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 13:52:27.647 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 13:52:27.648 [main] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 13:52:27.648 [main] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 13:52:27.648 [main] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 13:52:27.649 [main] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 13:52:27.663 [main] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 13:52:27.672 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 13:52:27.672 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:52:31.517 [main] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (3bec398fce72b87052f0e7d2239e4c04)
+2024-04-01 13:52:31.571 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 13:52:31.571 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 13:52:31.572 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 13:52:31.572 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 13:52:31.572 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 13:52:31.572 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:52:31.573 [main] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 13:52:31.573 [main] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 13:52:31.573 [main] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 13:52:31.573 [main] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 13:52:31.573 [main] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (3bec398fce72b87052f0e7d2239e4c04)
+2024-04-01 13:52:32.774 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 13:52:32.775 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 13:52:32.776 [main] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 13:52:32.776 [main] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (3bec398fce72b87052f0e7d2239e4c04)
+2024-04-01 13:52:32.917 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 13:52:32.918 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 13:52:32.918 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 13:52:32.919 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 13:52:32.922 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 13:52:32.922 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 13:52:32.923 [main] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:52:32.923 [main] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:52:32.924 [main] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 13:52:32.926 [main] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = UNDEFINED
+2024-04-01 13:52:32.927 [main] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:52:32.927 [main] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (3bec398fce72b87052f0e7d2239e4c04)
+2024-04-01 13:52:32.927 [main] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 13:52:32.927 [main] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (3bec398fce72b87052f0e7d2239e4c04)
+2024-04-01 13:52:33.141 [main] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:52:33.141 [main] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 13:52:33.149 [main] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (3bec398fce72b87052f0e7d2239e4c04)
+2024-04-01 13:52:33.150 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 13:52:33.151 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 13:59:13.846 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 13:59:13.852 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 13:59:13.853 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 13:59:13.854 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 13:59:13.854 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 13:59:13.854 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 13:59:13.855 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 13:59:13.855 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 13:59:13.855 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 13:59:13.856 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 13:59:13.857 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 13:59:13.857 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 13:59:13.857 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 13:59:13.862 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 13:59:13.862 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 13:59:13.864 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 13:59:13.864 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 13:59:13.865 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:147) - File created: failedScenarios.txt
+2024-04-01 13:59:13.868 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 13:59:13.871 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 13:59:13.872 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 13:59:13.872 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 13:59:13.872 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 13:59:13.872 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 13:59:13.873 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 13:59:13.873 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:149) - will not perform screenshot when driver is null!
+2024-04-01 13:59:13.873 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = null
+2024-04-01 14:00:02.157 [main] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 14:00:02.161 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:00:02.162 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:00:02.163 [main] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 14:00:02.163 [main] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:00:02.163 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 14:00:02.164 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 14:00:02.165 [main] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 14:00:02.165 [main] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 14:00:02.166 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:00:02.167 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:00:02.168 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:00:02.169 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:00:02.175 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:00:02.176 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:00:02.178 [main] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 14:00:02.178 [main] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 14:00:02.179 [main] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 14:00:02.182 [main] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 14:00:02.185 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:00:02.186 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:00:02.186 [main] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 14:00:02.187 [main] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 14:00:02.187 [main] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 14:00:02.188 [main] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 14:00:02.188 [main] DEBUG utils.DriverUtils#takeScreenshot(line:149) - will not perform screenshot when driver is null!
+2024-04-01 14:00:02.188 [main] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = null
+2024-04-01 14:00:46.140 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 14:00:46.144 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:00:46.145 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:00:46.146 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 14:00:46.146 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:00:46.147 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 14:00:46.148 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 14:00:46.148 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 14:00:46.148 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 14:00:46.149 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:00:46.150 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:00:46.150 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:00:46.150 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:00:46.154 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:00:46.155 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:00:46.156 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 14:00:46.156 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 14:00:46.157 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 14:00:46.158 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 14:00:46.160 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:00:46.161 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:00:46.161 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 14:00:46.161 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 14:00:46.161 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 14:00:46.161 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 14:00:46.162 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:149) - will not perform screenshot when driver is null!
+2024-04-01 14:00:46.162 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = null
+2024-04-01 14:01:15.759 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 14:01:15.761 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:01:15.762 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:01:15.763 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 14:01:15.763 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:01:15.763 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 14:01:15.763 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 14:01:15.763 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 14:01:15.764 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 14:01:15.765 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:01:15.765 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:01:15.766 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:01:15.766 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:01:15.771 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:01:15.772 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:01:15.773 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 14:01:15.773 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 14:01:15.774 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 14:01:15.775 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 14:01:15.778 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:01:15.779 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:01:15.779 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 14:01:15.780 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 14:01:15.780 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 14:01:15.780 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 14:01:15.780 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:149) - will not perform screenshot when driver is null!
+2024-04-01 14:01:15.781 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = null
+2024-04-01 14:10:50.631 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 14:10:50.634 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:10:50.635 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:10:50.635 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 14:10:50.636 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:10:50.636 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 14:10:50.636 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 14:10:50.636 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 14:10:50.636 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 14:10:50.638 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:10:50.638 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:10:50.639 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:10:50.639 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:10:50.645 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:10:50.648 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:10:50.650 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 14:10:50.650 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 14:10:50.651 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:147) - File created: failedScenarios.txt
+2024-04-01 14:10:50.652 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 14:10:50.654 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:10:50.654 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:10:50.655 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 14:10:50.656 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 14:10:50.656 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 14:10:50.657 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 14:10:50.657 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:149) - will not perform screenshot when driver is null!
+2024-04-01 14:10:50.657 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = null
+2024-04-01 14:11:19.538 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 14:11:19.542 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:11:19.543 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:11:19.544 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 14:11:19.544 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:11:19.545 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 14:11:19.545 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 14:11:19.545 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 14:11:19.546 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 14:11:19.546 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:11:19.547 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:11:19.548 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:11:19.549 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:11:19.556 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:11:19.557 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:11:19.558 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 14:11:19.558 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 14:11:19.559 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:147) - File created: failedScenarios.txt
+2024-04-01 14:11:19.561 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 14:11:19.563 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:11:19.564 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:11:19.564 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 14:11:19.565 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 14:11:19.565 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 14:11:19.565 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 14:11:19.566 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:149) - will not perform screenshot when driver is null!
+2024-04-01 14:11:19.566 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = null
+2024-04-01 14:12:54.300 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 14:12:54.309 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:12:54.310 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:12:54.312 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 14:12:54.312 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:12:54.313 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 14:12:54.314 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 14:12:54.314 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 14:12:54.315 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 14:12:54.317 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:12:54.318 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:12:54.321 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:12:54.322 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:12:54.329 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:12:54.330 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:12:54.331 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 14:12:54.332 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 14:12:54.333 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:12:54.334 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:12:54.335 [TestNG-PoolService-0] DEBUG utils.DriverUtils#initializePage(line:108) - [Initializing Page]Using time from explicit.wait.limit: 30
+2024-04-01 14:12:54.337 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 14:12:54.338 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 14:12:54.339 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 14:12:54.340 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 14:12:54.341 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 14:12:54.341 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:12:54.342 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 14:12:54.343 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 14:12:54.344 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 14:12:54.344 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 14:12:54.344 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 14:12:54.345 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 14:12:54.347 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 14:12:54.382 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 14:12:54.406 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 14:12:54.408 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:13:00.681 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (b594de2084313dc28c9f69cf77ee15c8)
+2024-04-01 14:13:00.716 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 14:13:00.718 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:13:00.719 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 14:13:00.719 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 14:13:00.720 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 14:13:00.720 [TestNG-PoolService-0] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 14:13:00.721 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (b594de2084313dc28c9f69cf77ee15c8)
+2024-04-01 14:13:03.259 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 14:13:03.259 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 14:13:03.260 [TestNG-PoolService-0] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 14:13:03.260 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (b594de2084313dc28c9f69cf77ee15c8)
+2024-04-01 14:13:03.396 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:13:03.397 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:13:03.398 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:13:03.398 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:13:03.402 [TestNG-PoolService-0] DEBUG utils.AssertionUtils#assertIsDisplayed(line:142) - asserting if element = null is displayed
+2024-04-01 14:13:03.405 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:13:03.407 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:13:03.409 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = scroll.limit
+2024-04-01 14:13:03.409 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:13:03.410 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.sleep.time
+2024-04-01 14:13:03.410 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 500
+2024-04-01 14:13:03.411 [TestNG-PoolService-0] DEBUG utils.ElementUtils#isElementDisplayed(line:33) - Checking if WebElement: null is displayed
+2024-04-01 14:13:03.412 [TestNG-PoolService-0] DEBUG utils.ElementUtils#isElementDisplayed(line:35) - Element is null ..
+2024-04-01 14:13:03.412 [TestNG-PoolService-0] DEBUG utils.AssertionUtils#assertIsDisplayed(line:144) - element = null displayed = false
+2024-04-01 14:13:03.412 [TestNG-PoolService-0] DEBUG utils.AssertionUtils#assertTrue(line:98) - asserting to true = false
+2024-04-01 14:13:03.418 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:13:03.419 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:13:03.419 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 14:13:03.420 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 14:13:03.420 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:147) - File created: failedScenarios.txt
+2024-04-01 14:13:03.422 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 14:13:03.422 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 14:13:03.422 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (b594de2084313dc28c9f69cf77ee15c8)
+2024-04-01 14:13:03.422 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 14:13:03.422 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (b594de2084313dc28c9f69cf77ee15c8)
+2024-04-01 14:13:03.646 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 14:13:03.647 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 14:13:03.661 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (b594de2084313dc28c9f69cf77ee15c8)
+2024-04-01 14:13:03.662 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 14:13:03.662 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:13:58.349 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 14:13:58.354 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:13:58.355 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:13:58.356 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 14:13:58.356 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:13:58.356 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 14:13:58.357 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 14:13:58.357 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 14:13:58.357 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 14:13:58.358 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:13:58.359 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:13:58.359 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:13:58.360 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:13:58.364 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:13:58.365 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:13:58.366 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 14:13:58.367 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 14:13:58.367 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:13:58.368 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:13:58.368 [TestNG-PoolService-0] DEBUG utils.DriverUtils#initializePage(line:108) - [Initializing Page]Using time from explicit.wait.limit: 30
+2024-04-01 14:13:58.368 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 14:13:58.369 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 14:13:58.370 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 14:13:58.371 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 14:13:58.371 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 14:13:58.372 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:13:58.372 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 14:13:58.373 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 14:13:58.374 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 14:13:58.374 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 14:13:58.375 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 14:13:58.375 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 14:13:58.377 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 14:13:58.404 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 14:13:58.417 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 14:13:58.418 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:14:02.765 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (c855e5877d5c4279d150dfafadb29500)
+2024-04-01 14:14:02.888 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 14:14:02.889 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:14:02.889 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 14:14:02.889 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 14:14:02.889 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 14:14:02.890 [TestNG-PoolService-0] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 14:14:02.890 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (c855e5877d5c4279d150dfafadb29500)
+2024-04-01 14:14:04.593 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 14:14:04.595 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 14:14:04.596 [TestNG-PoolService-0] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 14:14:04.598 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (c855e5877d5c4279d150dfafadb29500)
+2024-04-01 14:14:04.752 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:14:04.753 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:14:04.754 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:14:04.755 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:14:04.757 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:14:04.758 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:14:04.759 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.sleep.time
+2024-04-01 14:14:04.760 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 500
+2024-04-01 14:14:04.761 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.poll.time
+2024-04-01 14:14:04.763 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 2
+2024-04-01 14:14:04.763 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.fluent.wait.time
+2024-04-01 14:14:04.765 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:14:04.765 [TestNG-PoolService-0] DEBUG utils.WaitUtils#waitUntilElementIsDisplayed(line:50) - Waiting for element to be displayed: null
+2024-04-01 14:14:04.766 [TestNG-PoolService-0] DEBUG utils.WaitUtils#waitUntilElementIsDisplayed(line:67) - waitTime = 60
+2024-04-01 14:14:04.766 [TestNG-PoolService-0] DEBUG utils.WaitUtils#waitUntilElementIsDisplayed(line:68) - sleepMultiplier = 2
+2024-04-01 14:14:04.770 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:14:04.771 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:14:04.772 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 14:14:04.772 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 14:14:04.773 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:147) - File created: failedScenarios.txt
+2024-04-01 14:14:04.775 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 14:14:04.776 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 14:14:04.776 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (c855e5877d5c4279d150dfafadb29500)
+2024-04-01 14:14:04.777 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 14:14:04.778 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (c855e5877d5c4279d150dfafadb29500)
+2024-04-01 14:14:05.092 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 14:14:05.093 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 14:14:05.116 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (c855e5877d5c4279d150dfafadb29500)
+2024-04-01 14:14:05.116 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 14:14:05.117 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:15:32.792 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 14:15:32.795 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:15:32.796 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:15:32.798 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 14:15:32.798 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:15:32.798 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 14:15:32.799 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 14:15:32.799 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 14:15:32.799 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 14:15:32.800 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:15:32.800 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:15:32.801 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:15:32.801 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:15:32.805 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:15:32.806 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:15:32.806 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 14:15:32.806 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 14:15:32.806 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:15:32.807 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:15:32.807 [TestNG-PoolService-0] DEBUG utils.DriverUtils#initializePage(line:108) - [Initializing Page]Using time from explicit.wait.limit: 30
+2024-04-01 14:15:32.807 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 14:15:32.807 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 14:15:32.807 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 14:15:32.808 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 14:15:32.808 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 14:15:32.808 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:15:32.808 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 14:15:32.809 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 14:15:32.809 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 14:15:32.809 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 14:15:32.809 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 14:15:32.809 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 14:15:32.810 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 14:15:32.826 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 14:15:32.836 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 14:15:32.836 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:15:36.819 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (f95aed506d0d40df5e8e1fe0a1d24529)
+2024-04-01 14:15:36.903 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 14:15:36.903 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:15:36.904 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 14:15:36.904 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 14:15:36.904 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 14:15:36.904 [TestNG-PoolService-0] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 14:15:36.904 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f95aed506d0d40df5e8e1fe0a1d24529)
+2024-04-01 14:15:38.034 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 14:15:38.034 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 14:15:38.034 [TestNG-PoolService-0] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 14:15:38.034 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f95aed506d0d40df5e8e1fe0a1d24529)
+2024-04-01 14:15:38.158 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:15:38.159 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:15:38.161 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:15:38.163 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:15:38.165 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:15:38.166 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:15:38.167 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.sleep.time
+2024-04-01 14:15:38.167 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 500
+2024-04-01 14:15:38.167 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.poll.time
+2024-04-01 14:15:38.168 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 2
+2024-04-01 14:15:38.168 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.fluent.wait.time
+2024-04-01 14:15:38.168 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:15:38.168 [TestNG-PoolService-0] DEBUG utils.WaitUtils#waitUntilElementIsDisplayed(line:50) - Waiting for element to be displayed: null
+2024-04-01 14:15:38.169 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:33) - Clock: SystemClock[Asia/Singapore]
+2024-04-01 14:15:38.170 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:34) - Sleeper: org.openqa.selenium.support.ui.Sleeper$$Lambda$865/0x000001a49b36c3f0@59ca2ccf
+2024-04-01 14:15:38.170 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:35) - Timeout in seconds: 30
+2024-04-01 14:15:38.170 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:36) - Sleep in milliseconds: 500
+2024-04-01 14:15:38.172 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f95aed506d0d40df5e8e1fe0a1d24529)
+2024-04-01 14:15:38.182 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:15:38.183 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:15:38.183 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 14:15:38.183 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 14:15:38.184 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 14:15:38.186 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = FAILED
+2024-04-01 14:15:38.186 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 14:15:38.186 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f95aed506d0d40df5e8e1fe0a1d24529)
+2024-04-01 14:15:38.187 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 14:15:38.187 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (f95aed506d0d40df5e8e1fe0a1d24529)
+2024-04-01 14:15:38.435 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 14:15:38.435 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 14:15:38.450 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (f95aed506d0d40df5e8e1fe0a1d24529)
+2024-04-01 14:15:38.451 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 14:15:38.452 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:17:47.770 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 14:17:47.774 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:17:47.775 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:17:47.775 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 14:17:47.775 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:17:47.776 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 14:17:47.776 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 14:17:47.776 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 14:17:47.776 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 14:17:47.778 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:17:47.779 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:17:47.779 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:17:47.780 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:17:47.791 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:17:47.792 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:17:47.792 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 14:17:47.792 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 14:17:47.792 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:17:47.793 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:17:47.793 [TestNG-PoolService-0] DEBUG utils.DriverUtils#initializePage(line:108) - [Initializing Page]Using time from explicit.wait.limit: 30
+2024-04-01 14:17:47.793 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 14:17:47.793 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 14:17:47.794 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 14:17:47.795 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 14:17:47.795 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 14:17:47.795 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:17:47.796 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 14:17:47.796 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 14:17:47.797 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 14:17:47.797 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 14:17:47.797 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 14:17:47.797 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 14:17:47.798 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 14:17:47.810 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 14:17:47.819 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 14:17:47.820 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:17:51.422 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (87eb63e2603a453538e9adece09291e2)
+2024-04-01 14:17:51.457 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 14:17:51.458 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:17:51.458 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 14:17:51.458 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 14:17:51.459 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 14:17:51.459 [TestNG-PoolService-0] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 14:17:51.459 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (87eb63e2603a453538e9adece09291e2)
+2024-04-01 14:17:53.250 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 14:17:53.252 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 14:17:53.253 [TestNG-PoolService-0] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 14:17:53.253 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (87eb63e2603a453538e9adece09291e2)
+2024-04-01 14:17:53.403 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:17:53.404 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:17:53.405 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:17:53.406 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:17:53.408 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:17:53.408 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:17:53.408 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.sleep.time
+2024-04-01 14:17:53.409 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 500
+2024-04-01 14:17:53.409 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.poll.time
+2024-04-01 14:17:53.409 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 2
+2024-04-01 14:17:53.409 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.fluent.wait.time
+2024-04-01 14:17:53.410 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:17:53.411 [TestNG-PoolService-0] DEBUG utils.WaitUtils#waitUntilElementIsDisplayed(line:126) - Waiting for By:By.id: react-unity-webgl-canvas-1 to be displayed
+2024-04-01 14:17:53.411 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:33) - Clock: SystemClock[Asia/Singapore]
+2024-04-01 14:17:53.417 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:34) - Sleeper: org.openqa.selenium.support.ui.Sleeper$$Lambda$865/0x000002bec6386000@68fcf197
+2024-04-01 14:17:53.420 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:35) - Timeout in seconds: 30
+2024-04-01 14:17:53.423 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:36) - Sleep in milliseconds: 500
+2024-04-01 14:17:53.426 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (87eb63e2603a453538e9adece09291e2)
+2024-04-01 14:18:01.292 [TestNG-PoolService-0] DEBUG utils.AssertionUtils#assertIsDisplayed(line:181) - asserting if element by = By.id: react-unity-webgl-canvas-1 is displayed
+2024-04-01 14:18:01.297 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:18:01.298 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:18:01.299 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = scroll.limit
+2024-04-01 14:18:01.300 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:18:01.300 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.sleep.time
+2024-04-01 14:18:01.301 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 500
+2024-04-01 14:18:01.301 [TestNG-PoolService-0] DEBUG utils.ElementUtils#findByElement(line:451) - finding by element by = By.id: react-unity-webgl-canvas-1
+2024-04-01 14:18:01.301 [TestNG-PoolService-0] DEBUG utils.WaitUtils#waitUntilElementIsDisplayed(line:126) - Waiting for By:By.id: react-unity-webgl-canvas-1 to be displayed
+2024-04-01 14:18:01.301 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:33) - Clock: SystemClock[Asia/Singapore]
+2024-04-01 14:18:01.301 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:34) - Sleeper: org.openqa.selenium.support.ui.Sleeper$$Lambda$865/0x000002bec6386000@68fcf197
+2024-04-01 14:18:01.302 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:35) - Timeout in seconds: 30
+2024-04-01 14:18:01.302 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:36) - Sleep in milliseconds: 500
+2024-04-01 14:18:01.302 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (87eb63e2603a453538e9adece09291e2)
+2024-04-01 14:18:01.347 [TestNG-PoolService-0] DEBUG utils.ElementUtils#isElementDisplayed(line:33) - Checking if WebElement: [[EdgeDriver: MicrosoftEdge on windows (87eb63e2603a453538e9adece09291e2)] -> id: react-unity-webgl-canvas-1] is displayed
+2024-04-01 14:18:01.347 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (87eb63e2603a453538e9adece09291e2)
+2024-04-01 14:18:01.372 [TestNG-PoolService-0] DEBUG utils.ElementUtils#isElementDisplayed(line:41) - element is displayed? = true
+2024-04-01 14:18:01.373 [TestNG-PoolService-0] DEBUG utils.AssertionUtils#assertIsDisplayed(line:184) - element = [[EdgeDriver: MicrosoftEdge on windows (87eb63e2603a453538e9adece09291e2)] -> id: react-unity-webgl-canvas-1] displayed = true
+2024-04-01 14:18:01.373 [TestNG-PoolService-0] DEBUG utils.AssertionUtils#assertTrue(line:98) - asserting to true = true
+2024-04-01 14:18:01.373 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:18:01.374 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:18:01.374 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 14:18:01.374 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 14:18:01.374 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:149) - File already exists.
+2024-04-01 14:18:01.375 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = PASSED
+2024-04-01 14:18:01.376 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 14:18:01.376 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (87eb63e2603a453538e9adece09291e2)
+2024-04-01 14:18:01.376 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 14:18:01.376 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (87eb63e2603a453538e9adece09291e2)
+2024-04-01 14:18:01.586 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 14:18:01.586 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 14:18:01.590 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (87eb63e2603a453538e9adece09291e2)
+2024-04-01 14:18:01.590 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 14:18:01.591 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:18:21.320 [TestNG-PoolService-0] DEBUG dto.MainDto#setScenario(line:37) - setting scenario = Launch Pixel Pals
+2024-04-01 14:18:21.325 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:18:21.326 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:18:21.326 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = test.env
+2024-04-01 14:18:21.327 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:18:21.327 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = test.env.default
+2024-04-01 14:18:21.327 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = prod
+2024-04-01 14:18:21.328 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = prod
+2024-04-01 14:18:21.328 [TestNG-PoolService-0] DEBUG dto.MainDto#setTestEnv(line:47) - setting test env = prod
+2024-04-01 14:18:21.329 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:18:21.329 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:18:21.331 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:18:21.331 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:18:21.342 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:18:21.343 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:18:21.344 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = ajax.wait.limit
+2024-04-01 14:18:21.345 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 10
+2024-04-01 14:18:21.345 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:18:21.346 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:18:21.346 [TestNG-PoolService-0] DEBUG utils.DriverUtils#initializePage(line:108) - [Initializing Page]Using time from explicit.wait.limit: 30
+2024-04-01 14:18:21.347 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = null
+2024-04-01 14:18:21.347 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:88) - setting app
+2024-04-01 14:18:21.348 [TestNG-PoolService-0] DEBUG dto.MainDto#setApp(line:90) - setting app = PIXEL_PALS
+2024-04-01 14:18:21.349 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:58) - setting driver type..
+2024-04-01 14:18:21.349 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:26) - getting system property of = driver.type
+2024-04-01 14:18:21.349 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:29) - system property null! will get default value!
+2024-04-01 14:18:21.349 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = driver.type.default
+2024-04-01 14:18:21.350 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = EdgeWindowsDesktop
+2024-04-01 14:18:21.350 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getSystemProperty(line:32) - property = EdgeWindowsDesktop
+2024-04-01 14:18:21.350 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriverType(line:79) - setting driver type = EdgeWindowsDesktop
+2024-04-01 14:18:21.350 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriver(line:61) - driver.type = EdgeWindowsDesktop
+2024-04-01 14:18:21.351 [TestNG-PoolService-0] DEBUG drivers.DriverBase#setDriverType(line:29) - setting up driver..
+2024-04-01 14:18:21.352 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#<init>(line:25) - creating new windows edge browser
+2024-04-01 14:18:21.368 [TestNG-PoolService-0] DEBUG drivers.MyEdgeWindowsDesktopDriver#edgeOptions(line:43) - setting edge options
+2024-04-01 14:18:21.378 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = is.headless
+2024-04-01 14:18:21.379 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:18:24.929 [TestNG-PoolService-0] DEBUG dto.MainDto#setDriver(line:99) - setting driver = EdgeDriver: MicrosoftEdge on windows (4c2c717cb68787056d5c382b5169a509)
+2024-04-01 14:18:25.065 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = network.logs.capture
+2024-04-01 14:18:25.065 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
+2024-04-01 14:18:25.066 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:58) - getting envURl
+2024-04-01 14:18:25.066 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:59) - testEnv = 
+2024-04-01 14:18:25.067 [TestNG-PoolService-0] DEBUG dto.MainDto#getEnvURL(line:66) - envURL = https://app.pixelpals.ai/
+2024-04-01 14:18:25.067 [TestNG-PoolService-0] DEBUG utils.DriverUtils#getURL(line:44) - launching url = https://app.pixelpals.ai/
+2024-04-01 14:18:25.068 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (4c2c717cb68787056d5c382b5169a509)
+2024-04-01 14:18:25.320 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = maximize.browser
+2024-04-01 14:18:25.322 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = true
+2024-04-01 14:18:25.323 [TestNG-PoolService-0] DEBUG utils.DriverUtils#maximizeBrowser(line:66) - maximizing browser!
+2024-04-01 14:18:25.323 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (4c2c717cb68787056d5c382b5169a509)
+2024-04-01 14:18:26.277 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:18:26.278 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:18:26.280 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.before.step
+2024-04-01 14:18:26.280 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:18:26.282 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:18:26.283 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:18:26.284 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.sleep.time
+2024-04-01 14:18:26.286 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 500
+2024-04-01 14:18:26.286 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.poll.time
+2024-04-01 14:18:26.287 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 2
+2024-04-01 14:18:26.288 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.fluent.wait.time
+2024-04-01 14:18:26.289 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:18:26.289 [TestNG-PoolService-0] DEBUG utils.WaitUtils#waitUntilElementIsDisplayed(line:126) - Waiting for By:By.id: react-unity-webgl-canvas-1 to be displayed
+2024-04-01 14:18:26.290 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:33) - Clock: SystemClock[Asia/Singapore]
+2024-04-01 14:18:26.291 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:34) - Sleeper: org.openqa.selenium.support.ui.Sleeper$$Lambda$853/0x000001cd47379560@6cc082e4
+2024-04-01 14:18:26.292 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:35) - Timeout in seconds: 30
+2024-04-01 14:18:26.292 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:36) - Sleep in milliseconds: 500
+2024-04-01 14:18:26.294 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (4c2c717cb68787056d5c382b5169a509)
+2024-04-01 14:18:33.618 [TestNG-PoolService-0] DEBUG utils.AssertionUtils#assertIsDisplayed(line:181) - asserting if element by = By.id: react-unity-webgl-canvas-1 is displayed
+2024-04-01 14:18:33.620 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = explicit.wait.limit
+2024-04-01 14:18:33.621 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:18:33.621 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = scroll.limit
+2024-04-01 14:18:33.621 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 30
+2024-04-01 14:18:33.622 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = customize.sleep.time
+2024-04-01 14:18:33.628 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = 500
+2024-04-01 14:18:33.628 [TestNG-PoolService-0] DEBUG utils.ElementUtils#findByElement(line:451) - finding by element by = By.id: react-unity-webgl-canvas-1
+2024-04-01 14:18:33.629 [TestNG-PoolService-0] DEBUG utils.WaitUtils#waitUntilElementIsDisplayed(line:126) - Waiting for By:By.id: react-unity-webgl-canvas-1 to be displayed
+2024-04-01 14:18:33.629 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:33) - Clock: SystemClock[Asia/Singapore]
+2024-04-01 14:18:33.629 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:34) - Sleeper: org.openqa.selenium.support.ui.Sleeper$$Lambda$853/0x000001cd47379560@6cc082e4
+2024-04-01 14:18:33.630 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:35) - Timeout in seconds: 30
+2024-04-01 14:18:33.630 [TestNG-PoolService-0] DEBUG utils.WaitUtils#setWebDriverWait(line:36) - Sleep in milliseconds: 500
+2024-04-01 14:18:33.630 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (4c2c717cb68787056d5c382b5169a509)
+2024-04-01 14:18:33.656 [TestNG-PoolService-0] DEBUG utils.ElementUtils#isElementDisplayed(line:33) - Checking if WebElement: [[EdgeDriver: MicrosoftEdge on windows (4c2c717cb68787056d5c382b5169a509)] -> id: react-unity-webgl-canvas-1] is displayed
+2024-04-01 14:18:33.657 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (4c2c717cb68787056d5c382b5169a509)
+2024-04-01 14:18:33.687 [TestNG-PoolService-0] DEBUG utils.ElementUtils#isElementDisplayed(line:41) - element is displayed? = true
+2024-04-01 14:18:33.688 [TestNG-PoolService-0] DEBUG utils.AssertionUtils#assertIsDisplayed(line:184) - element = [[EdgeDriver: MicrosoftEdge on windows (4c2c717cb68787056d5c382b5169a509)] -> id: react-unity-webgl-canvas-1] displayed = true
+2024-04-01 14:18:33.688 [TestNG-PoolService-0] DEBUG utils.AssertionUtils#assertTrue(line:98) - asserting to true = true
+2024-04-01 14:18:33.688 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = take.screenshot.after.step
+2024-04-01 14:18:33.689 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = null
+2024-04-01 14:18:33.689 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:54) - executing after scenario hooks!
+2024-04-01 14:18:33.689 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:143) - creating new file with file name = target/failedScenarios.txt
+2024-04-01 14:18:33.689 [TestNG-PoolService-0] DEBUG utils.SystemUtils#createTextFile(line:147) - File created: failedScenarios.txt
+2024-04-01 14:18:33.690 [TestNG-PoolService-0] DEBUG stepdefinitions.Hooks#afterScenario(line:56) - Scenario status = PASSED
+2024-04-01 14:18:33.691 [TestNG-PoolService-0] DEBUG utils.DriverUtils#takeScreenshot(line:147) - taking screenshot!
+2024-04-01 14:18:33.691 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (4c2c717cb68787056d5c382b5169a509)
+2024-04-01 14:18:33.691 [TestNG-PoolService-0] DEBUG dto.MainDto#getPlatformType(line:52) - getting platform type = WINDOWS
+2024-04-01 14:18:33.691 [TestNG-PoolService-0] DEBUG dto.MainDto#getDriver(line:94) - getting driver = EdgeDriver: MicrosoftEdge on windows (4c2c717cb68787056d5c382b5169a509)
+2024-04-01 14:18:33.862 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 14:18:33.862 [TestNG-PoolService-0] DEBUG dto.MainDto#getScenario(line:32) - getting scenario = Launch Pixel Pals
+2024-04-01 14:18:33.866 [TestNG-PoolService-0] DEBUG dto.MainDto#teardownDriver(line:104) - quitting driver = EdgeDriver: MicrosoftEdge on windows (4c2c717cb68787056d5c382b5169a509)
+2024-04-01 14:18:33.867 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:80) - getting config of = isclose.browser.after.execution
+2024-04-01 14:18:33.868 [TestNG-PoolService-0] DEBUG utils.SystemUtils#getConfig(line:82) - value = false
